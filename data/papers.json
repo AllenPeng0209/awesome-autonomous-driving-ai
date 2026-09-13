@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "papers": [
+    {
+      "canonical_id": "arxiv:2609.04070",
+      "arxiv_id": "2609.04070",
+      "doi": "10.48550/arXiv.2609.04070",
+      "title": "Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving",
+      "aliases": [
+        "LaPla"
+      ],
+      "first_public_date": "2026-09-03",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-03",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-13",
+      "last_verified_on": "2026-09-13",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "VLA",
+      "path": "papers/VLA/2609.04070-lapla.md",
+      "sources": [
+        "https://arxiv.org/abs/2609.04070",
+        "https://arxiv.org/html/2609.04070v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02341",
+      "arxiv_id": "2609.02341",
+      "doi": "10.48550/arXiv.2609.02341",
+      "title": "Towards Zero-Shot Transfer Across Embodiments For Driving VLAs",
+      "aliases": [
+        "BEV-Forcing"
+      ],
+      "first_public_date": "2026-09-02",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-02",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-13",
+      "last_verified_on": "2026-09-13",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "VLA",
+      "path": "papers/VLA/2609.02341-zero-shot-transfer.md",
+      "sources": [
+        "https://arxiv.org/abs/2609.02341",
+        "https://arxiv.org/html/2609.02341v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.23486",
+      "arxiv_id": "2608.23486",
+      "doi": "10.48550/arXiv.2608.23486",
+      "title": "GeoWAM: Visual Geometry World Action Models for Autonomous Driving",
+      "aliases": [
+        "GeoWAM"
+      ],
+      "first_public_date": "2026-08-24",
+      "latest_version": "v2",
+      "latest_version_date": "2026-08-25",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-13",
+      "last_verified_on": "2026-09-13",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2608.23486-geowam.md",
+      "sources": [
+        "https://arxiv.org/abs/2608.23486",
+        "https://arxiv.org/html/2608.23486v2"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20974",
+      "arxiv_id": "2608.20974",
+      "doi": "10.48550/arXiv.2608.20974",
+      "title": "WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving",
+      "aliases": [
+        "WA-JEPA"
+      ],
+      "first_public_date": "2026-08-21",
+      "latest_version": "v2",
+      "latest_version_date": "2026-09-05",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-13",
+      "last_verified_on": "2026-09-13",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2608.20974-wa-jepa.md",
+      "sources": [
+        "https://arxiv.org/abs/2608.20974",
+        "https://arxiv.org/html/2608.20974v2"
+      ]
+    }
+  ]
+}
