@@ -88,6 +88,116 @@
         "https://arxiv.org/abs/2608.20974",
         "https://arxiv.org/html/2608.20974v2"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19085",
+      "arxiv_id": "2608.19085",
+      "doi": "10.48550/arXiv.2608.19085",
+      "title": "DA-WAM: Decision-Aligned Future Latents for Driving World Models",
+      "aliases": [
+        "DA-WAM"
+      ],
+      "first_public_date": "2026-08-19",
+      "latest_version": "v2",
+      "latest_version_date": "2026-08-20",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-14",
+      "last_verified_on": "2026-09-14",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2608.19085-da-wam.md",
+      "first_author": "Ruiguo Zhong",
+      "first_author_affiliations": [
+        "The Hong Kong University of Science and Technology (Guangzhou)"
+      ],
+      "code_status": "README only; implementation and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2608.19085",
+        "https://arxiv.org/html/2608.19085v2",
+        "https://github.com/LeapWM/da-wam"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11717",
+      "arxiv_id": "2609.11717",
+      "doi": "10.48550/arXiv.2609.11717",
+      "title": "MC-DeTra: Motion-Consistent Joint Object Detection and Socially-Aware Trajectory Forecasting in Bird's-Eye-View Images",
+      "aliases": [
+        "MC-DeTra"
+      ],
+      "first_public_date": "2026-09-10",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-10",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-14",
+      "last_verified_on": "2026-09-14",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "Evaluation",
+      "path": "papers/Evaluation/2609.11717-mc-detra.md",
+      "first_author": "Vladislav Diuzhev",
+      "first_author_affiliations": [
+        "Moscow Institute of Physics and Technology"
+      ],
+      "code_status": "code/configs/splits/tools present; weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.11717",
+        "https://arxiv.org/html/2609.11717v1",
+        "https://github.com/diuzhevVlad/MC-DeTra"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03572",
+      "arxiv_id": "2609.03572",
+      "doi": "10.48550/arXiv.2609.03572",
+      "title": "Drive-HWM: Hierarchical World Models for Dynamic-Latent Guided Autonomous Driving",
+      "aliases": [
+        "Drive-HWM"
+      ],
+      "first_public_date": "2026-09-03",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-03",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-14",
+      "last_verified_on": "2026-09-14",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.03572-drive-hwm.md",
+      "first_author": "Zhaoxin Fan",
+      "first_author_affiliations": [
+        "School of Artificial Intelligence, Beihang University"
+      ],
+      "code_status": "official implementation and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.03572",
+        "https://arxiv.org/html/2609.03572v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03225",
+      "arxiv_id": "2609.03225",
+      "doi": "10.48550/arXiv.2609.03225",
+      "title": "Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving",
+      "aliases": [
+        "StyleDrive"
+      ],
+      "first_public_date": "2026-09-03",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-03",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-14",
+      "last_verified_on": "2026-09-14",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.03225-styledrive.md",
+      "first_author": "Yuxuan Han",
+      "first_author_affiliations": [
+        "School of Intelligence Science and Engineering, Harbin Institute of Technology, Shenzhen"
+      ],
+      "code_status": "official implementation and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.03225",
+        "https://arxiv.org/html/2609.03225v1"
+      ]
     }
   ]
 }
