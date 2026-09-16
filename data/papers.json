@@ -198,6 +198,166 @@
         "https://arxiv.org/abs/2609.03225",
         "https://arxiv.org/html/2609.03225v1"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15322",
+      "arxiv_id": "2609.15322",
+      "doi": "10.48550/arXiv.2609.15322",
+      "title": "Planning in the Backbone: DiffAdapterVLA for Native Continuous Trajectory Generation with Driving VLMs",
+      "aliases": [
+        "DiffAdapterVLA"
+      ],
+      "first_public_date": "2026-09-14",
+      "arxiv_v1_timestamp": "2026-09-14T10:14:38Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-14",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-16",
+      "last_verified_on": "2026-09-16",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "VLA",
+      "path": "papers/VLA/2609.15322-diffadaptervla.md",
+      "recommendation": "Must Read",
+      "first_author": "Changxin Lu",
+      "first_author_affiliations": [
+        "School of Remote Sensing and Information Engineering, Wuhan University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official implementation and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.15322",
+        "https://arxiv.org/html/2609.15322v1",
+        "https://arxiv.org/pdf/2609.15322v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12371",
+      "arxiv_id": "2609.12371",
+      "doi": "10.48550/arXiv.2609.12371",
+      "title": "READ: Learning Risk-Informed Fields for End-to-End Autonomous Driving",
+      "aliases": [
+        "READ"
+      ],
+      "first_public_date": "2026-09-11",
+      "arxiv_v1_timestamp": "2026-09-11T02:40:51Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-11",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-16",
+      "last_verified_on": "2026-09-16",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "Generative-Planning",
+      "path": "papers/Generative-Planning/2609.12371-read.md",
+      "recommendation": "Recommended",
+      "first_author": "Zhiyuan Liu",
+      "first_author_affiliations": [
+        "School of Vehicle and Mobility, Tsinghua University"
+      ],
+      "co_first_authors": [
+        {
+          "name": "Yuanxin Tian",
+          "affiliations": [
+            "School of Vehicle and Mobility, Tsinghua University"
+          ]
+        }
+      ],
+      "co_first_author_status": "equal contribution confirmed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official implementation and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.12371",
+        "https://arxiv.org/html/2609.12371v1",
+        "https://arxiv.org/pdf/2609.12371v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16724",
+      "arxiv_id": "2609.16724",
+      "doi": "10.48550/arXiv.2609.16724",
+      "title": "CorrRisk-WM: Corridor-Conditioned Risk World Modeling for Safety-Critical Trajectory Planning",
+      "aliases": [
+        "CorrRisk-WM"
+      ],
+      "first_public_date": "2026-09-15",
+      "arxiv_v1_timestamp": "2026-09-15T06:56:08Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-15",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-16",
+      "last_verified_on": "2026-09-16",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.16724-corrrisk-wm.md",
+      "recommendation": "Recommended",
+      "first_author": "Tingyu Guo",
+      "first_author_affiliations": [
+        "J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official implementation and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.16724",
+        "https://arxiv.org/html/2609.16724v1",
+        "https://arxiv.org/pdf/2609.16724v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15169",
+      "arxiv_id": "2609.15169",
+      "doi": "10.48550/arXiv.2609.15169",
+      "title": "GRAVA: Grounded Reasoning-to-Action Representation and Learning for Autonomous Driving",
+      "aliases": [
+        "GRAVA"
+      ],
+      "first_public_date": "2026-09-14",
+      "arxiv_v1_timestamp": "2026-09-14T07:55:04Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-14",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-16",
+      "last_verified_on": "2026-09-16",
+      "venue_status": "preprint; submitted to IEEE TPAMI per PDF header; acceptance unverified",
+      "topic": "VLA",
+      "path": "papers/VLA/2609.15169-grava.md",
+      "recommendation": "Recommended",
+      "first_author": "Xiao Liu",
+      "first_author_affiliations": [
+        "National Engineering Research Center of Electric Vehicles, Beijing Institute of Technology",
+        "Shenzhen Automotive Research Institute, Beijing Institute of Technology",
+        "Shenzhen Jiguangzhijie Technology Co., Ltd."
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "project README and assets only; implementation/data/checkpoint roadmap pending",
+      "sources": [
+        "https://arxiv.org/abs/2609.15169",
+        "https://arxiv.org/html/2609.15169v1",
+        "https://arxiv.org/pdf/2609.15169v1",
+        "https://github.com/AhernResearch/grava",
+        "https://github.com/AhernResearch/grava/commit/5a82bb85ca32c400ea6bee5642c7dfd3b8e3e1f2"
+      ],
+      "submitted_venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "submission_date": null,
+      "project_url": "https://github.com/AhernResearch/grava",
+      "project_page_commit": "5a82bb85ca32c400ea6bee5642c7dfd3b8e3e1f2",
+      "project_page_commit_timestamp": "2026-09-15T13:28:55Z"
     }
   ]
 }
