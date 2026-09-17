@@ -6,18 +6,17 @@
 
 目标：每天北京时间 **09:00** 更新 **3–5 篇未收录的新论文**。优先最近 7 天，必要时扩展到 30 天；高质量论文不足时少收或空缺，不用旧论文和低价值工作凑数。
 
-## 最新一期 · 2026-09-16
+## 最新一期 · 2026-09-17
 
-[阅读今日日报](daily/2026-09-16.md) · [完整去重索引（12 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
+[阅读今日日报](daily/2026-09-17.md) · [完整去重索引（15 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
 
-| 论文 | 首次公开 / 最新版本 | 一作单位 | 为什么读 | 解读 |
+| 论文 | arXiv v1 / 最新版本 | 一作或团队单位 | 为什么读 | 解读 |
 | --- | --- | --- | --- | --- |
-| DiffAdapterVLA | 09-14 / v1 09-14 | 武汉大学 | 让轨迹在 VLM 后层逐步形成 | [🔥 VLA / 效率](papers/VLA/2609.15322-diffadaptervla.md) |
-| READ | 09-11 / v1 09-11 | 共同一作均为清华大学 | 用匹配消融检验规划相关风险监督 | [⭐ 风险表征](papers/Generative-Planning/2609.12371-read.md) |
-| CorrRisk-WM | 09-15 / v1 09-15 | Texas A&M University | 候选走廊查询未来侵入与 near-miss | [⭐ World Model](papers/World-Models/2609.16724-corrrisk-wm.md) |
-| GRAVA | 09-14 / v1 09-14 | 北京理工大学及深圳汽车研究院、Shenzhen Jiguangzhijie Technology | 将有物理依据的推理接到可执行动作 | [⭐ VLA / 推理](papers/VLA/2609.15169-grava.md) |
+| SV-WAM | 09-03 / v1 09-03 | 中科院自动化所 + Chongqing Changan Technology | 未来视频只参与训练监督，推理保留环视并只输出动作 | [🔥 World-Action](papers/World-Models/2609.03602-sv-wam.md) |
+| DriveZero | 09-05 / v1 09-05 | Xiaomi EV，L3 Team（团队署名） | 视觉表征与 RL 教师分工，目标增强生成日志外监督 | [🔥 E2E / 部分开源](papers/End-to-End-Driving/2609.06055-drivezero.md) |
+| Comfort by Construction | 09-11 / v1 09-11 | 共同一作均为 University of Freiburg | 动态可行动作网格，审查仿真急动作带来的指标虚高 | [⭐ 动作接口 / 评测](papers/Evaluation/2609.13011-comfort-by-construction.md) |
 
-以上日期均为 **2026 年、arXiv UTC 日期**。本期四篇均在最近 7 天内首发，无需扩大窗口。GRAVA 页眉注明 TPAMI 投稿，尚非录用；官方主页仅 README/展示资源。四篇均未独立复现，批量时延、开环风险评估和驾驶闭环的证据边界见卡片。
+以上为 **2026 年、arXiv UTC 日期**。本期扩展到最近 30 天；并非全部最近 7 天首发。DriveZero 另有 09-04 的 Git 报告记录，当前已发布的实现/权重限 DriveRL 教师。三篇均未独立复现；时延范围、舒适性与碰撞的取舍详见卡片。
 
 ## 如何理解推荐
 
@@ -30,6 +29,7 @@ SOTA 优先，但只在相同数据、指标与评测协议下讨论。每篇都
 
 ## 归档
 
+- [2026-09-17：未来监督裁剪、RL 教师与可执行动作约束](daily/2026-09-17.md)
 - [2026-09-16：主干内规划、风险接口与有依据的推理](daily/2026-09-16.md)
 - [2026-09-14：候选未来、慢快分工与辅助监督](daily/2026-09-14.md)
 - [2026-09-13：世界表征、动作接口与跨车型泛化](daily/2026-09-13.md)

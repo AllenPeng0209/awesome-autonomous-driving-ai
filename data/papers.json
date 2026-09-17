@@ -358,6 +358,147 @@
       "project_url": "https://github.com/AhernResearch/grava",
       "project_page_commit": "5a82bb85ca32c400ea6bee5642c7dfd3b8e3e1f2",
       "project_page_commit_timestamp": "2026-09-15T13:28:55Z"
+    },
+    {
+      "canonical_id": "arxiv:2609.03602",
+      "arxiv_id": "2609.03602",
+      "doi": "10.48550/arXiv.2609.03602",
+      "title": "SV-WAM: An Efficient Surround-View World-Action Model for End-to-End Autonomous Driving",
+      "aliases": [
+        "SV-WAM"
+      ],
+      "first_public_date": "2026-09-03",
+      "arxiv_v1_timestamp": "2026-09-03T09:47:51Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-03",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-17",
+      "last_verified_on": "2026-09-17",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.03602-sv-wam.md",
+      "recommendation": "Must Read",
+      "first_author": "Jinyang Wang",
+      "first_author_affiliations": [
+        "Institute of Automation, Chinese Academy of Sciences",
+        "Chongqing Changan Technology Co., Ltd."
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.03602",
+        "https://arxiv.org/html/2609.03602v1",
+        "https://arxiv.org/pdf/2609.03602v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06055",
+      "arxiv_id": "2609.06055",
+      "doi": "10.48550/arXiv.2609.06055",
+      "title": "DriveZero: End-to-End Driving Beyond Human Demonstrations",
+      "aliases": [
+        "DriveZero",
+        "DriveZero-Scale",
+        "DriveZero: End-to-End Driving Policy beyond Human Demonstrations"
+      ],
+      "first_public_date": "2026-09-04",
+      "arxiv_v1_timestamp": "2026-09-05T12:20:38Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-05",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-17",
+      "last_verified_on": "2026-09-17",
+      "venue_status": "technical report / preprint; formal acceptance unverified",
+      "topic": "End-to-End-Driving",
+      "path": "papers/End-to-End-Driving/2609.06055-drivezero.md",
+      "recommendation": "Must Read",
+      "first_author": null,
+      "first_author_affiliations": [
+        "Xiaomi EV, AD & Robotics, L3 Team"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no whole-paper co-first designation; module-level equal contributions recorded separately",
+      "official_code_url": "https://github.com/XiaomiAutoL3/DriveZero/tree/main/DriveRL",
+      "official_weights_url": "https://github.com/XiaomiAutoL3/DriveZero/tree/main/DriveRL/release/checkpoints",
+      "code_release_date": "2026-09-15",
+      "weights_release_date": "2026-09-15",
+      "code_status": "DriveRL inference source/configs/eval wrappers and two checkpoint files present; no independent execution; DriveZero and DriveVFM pending",
+      "sources": [
+        "https://arxiv.org/abs/2609.06055",
+        "https://arxiv.org/html/2609.06055v1",
+        "https://arxiv.org/pdf/2609.06055v1",
+        "https://xiaomiautol3.github.io/DriveZero/",
+        "https://github.com/XiaomiAutoL3/DriveZero",
+        "https://github.com/XiaomiAutoL3/DriveZero/commit/9df50dd691f8251813332ff99ee7dda139a65687",
+        "https://github.com/XiaomiAutoL3/DriveZero/commit/fc6053e5292f4c2d768da62e29c5841670bdb705",
+        "https://github.com/XiaomiAutoL3/DriveZero/tree/main/DriveRL/release/checkpoints",
+        "https://github.com/XiaomiAutoL3/DriveZero/blob/main/DriveRL/release/driverl_checkpoints.yaml"
+      ],
+      "first_public_date_basis": "earliest report-bearing commit in public repository; actual initial public exposure time unverified",
+      "arxiv_first_public_date": "2026-09-05",
+      "team_authorship": "AD & Robotics, L3 Team, Xiaomi EV",
+      "first_author_status": "PDF uses team authorship; no whole-paper individual first-author designation",
+      "first_listed_arxiv_author": "Hao He",
+      "module_equal_contributors": {
+        "DriveZero": [
+          "Haisong Liu",
+          "Jinke Li",
+          "Haochen Tian"
+        ]
+      },
+      "release_scope": "DriveRL inference teacher only; DriveZero camera student and DriveVFM pending",
+      "project_url": "https://xiaomiautol3.github.io/DriveZero/",
+      "release_commit": "fc6053e5292f4c2d768da62e29c5841670bdb705",
+      "repository_verified_commit": "24959547edac549d64c34b2aab62d5c52599d078",
+      "release_manifest_status": "artifact_bundled_pending_public_eval"
+    },
+    {
+      "canonical_id": "arxiv:2609.13011",
+      "arxiv_id": "2609.13011",
+      "doi": "10.48550/arXiv.2609.13011",
+      "title": "Comfort by Construction: Adaptive, Comfort-Bounded Action Spaces for Learned Driving Policies",
+      "aliases": [
+        "Comfort by Construction"
+      ],
+      "first_public_date": "2026-09-11",
+      "arxiv_v1_timestamp": "2026-09-11T16:08:56Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-11",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-17",
+      "last_verified_on": "2026-09-17",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "Evaluation",
+      "path": "papers/Evaluation/2609.13011-comfort-by-construction.md",
+      "recommendation": "Recommended",
+      "first_author": "Anna Rothenhäusler",
+      "first_author_affiliations": [
+        "University of Freiburg"
+      ],
+      "co_first_authors": [
+        {
+          "name": "Daniel Jost",
+          "affiliations": [
+            "University of Freiburg"
+          ]
+        }
+      ],
+      "co_first_author_status": "equal contribution confirmed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.13011",
+        "https://arxiv.org/html/2609.13011v1",
+        "https://arxiv.org/pdf/2609.13011v1"
+      ]
     }
   ]
 }
