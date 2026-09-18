@@ -6,17 +6,18 @@
 
 目标：每天北京时间 **09:00** 更新 **3–5 篇未收录的新论文**。优先最近 7 天，必要时扩展到 30 天；高质量论文不足时少收或空缺，不用旧论文和低价值工作凑数。
 
-## 最新一期 · 2026-09-17
+## 最新一期 · 2026-09-18
 
-[阅读今日日报](daily/2026-09-17.md) · [完整去重索引（15 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
+[阅读今日日报](daily/2026-09-18.md) · [完整去重索引（17 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
 
 | 论文 | arXiv v1 / 最新版本 | 一作或团队单位 | 为什么读 | 解读 |
 | --- | --- | --- | --- | --- |
-| SV-WAM | 09-03 / v1 09-03 | 中科院自动化所 + Chongqing Changan Technology | 未来视频只参与训练监督，推理保留环视并只输出动作 | [🔥 World-Action](papers/World-Models/2609.03602-sv-wam.md) |
-| DriveZero | 09-05 / v1 09-05 | Xiaomi EV，L3 Team（团队署名） | 视觉表征与 RL 教师分工，目标增强生成日志外监督 | [🔥 E2E / 部分开源](papers/End-to-End-Driving/2609.06055-drivezero.md) |
-| Comfort by Construction | 09-11 / v1 09-11 | 共同一作均为 University of Freiburg | 动态可行动作网格，审查仿真急动作带来的指标虚高 | [⭐ 动作接口 / 评测](papers/Evaluation/2609.13011-comfort-by-construction.md) |
+| RAF-VLA | 09-15 / v1 09-15 | KAIST Graduate School of Mobility | 直接对齐未来表征，检验是否必须生成未来 | [🔥 VLA / 未来监督](papers/VLA/2609.17728-raf-vla.md) |
+| FIVE-VLA | 09-16 / v1 09-16 | Robert Bosch GmbH + Five AI Ltd. | 少视觉 token 与动作隐状态记忆结合，核对闭环收益及总成本 | [🔥 VLA / 时序效率](papers/VLA/2609.18623-five-vla.md) |
 
-以上为 **2026 年、arXiv UTC 日期**。本期扩展到最近 30 天；并非全部最近 7 天首发。DriveZero 另有 09-04 的 Git 报告记录，当前已发布的实现/权重限 DriveRL 教师。三篇均未独立复现；时延范围、舒适性与碰撞的取舍详见卡片。
+以上为 **2026 年、arXiv UTC 日期**。本期只新增 2 篇，均在最近 7 天内首发，不以跨领域工作凑数。两篇均按预印本收录，官方实现/权重未核实，本站未复现。
+
+**已收录更新：**[DiffAdapterVLA v2](papers/VLA/2609.15322-diffadaptervla.md)补充了一作的东风单位与实习说明；正文抽取文本未发现方法/数值变更，保留原首次推荐日期，不计新增。
 
 ## 如何理解推荐
 
@@ -29,6 +30,7 @@ SOTA 优先，但只在相同数据、指标与评测协议下讨论。每篇都
 
 ## 归档
 
+- [2026-09-18：未来表征对齐与循环动作记忆；DiffAdapterVLA v2 更新](daily/2026-09-18.md)
 - [2026-09-17：未来监督裁剪、RL 教师与可执行动作约束](daily/2026-09-17.md)
 - [2026-09-16：主干内规划、风险接口与有依据的推理](daily/2026-09-16.md)
 - [2026-09-14：候选未来、慢快分工与辅助监督](daily/2026-09-14.md)
