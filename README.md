@@ -6,18 +6,18 @@
 
 目标：每天北京时间 **09:00** 更新 **3–5 篇未收录的新论文**。优先最近 7 天，必要时扩展到 30 天；高质量论文不足时少收或空缺，不用旧论文和低价值工作凑数。
 
-## 最新一期 · 2026-09-18
+## 最新一期 · 2026-09-19
 
-[阅读今日日报](daily/2026-09-18.md) · [完整去重索引（17 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
+[阅读今日日报](daily/2026-09-19.md) · [完整去重索引（19 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
 
-| 论文 | arXiv v1 / 最新版本 | 一作或团队单位 | 为什么读 | 解读 |
+| 论文 | arXiv v1 / 最新版本 | 一作单位 | 为什么读 | 解读 |
 | --- | --- | --- | --- | --- |
-| RAF-VLA | 09-15 / v1 09-15 | KAIST Graduate School of Mobility | 直接对齐未来表征，检验是否必须生成未来 | [🔥 VLA / 未来监督](papers/VLA/2609.17728-raf-vla.md) |
-| FIVE-VLA | 09-16 / v1 09-16 | Robert Bosch GmbH + Five AI Ltd. | 少视觉 token 与动作隐状态记忆结合，核对闭环收益及总成本 | [🔥 VLA / 时序效率](papers/VLA/2609.18623-five-vla.md) |
+| OPTED | 09-17 / v1 09-17 | KE:SAI + ETH Zürich | 在学生实际访问状态上获得教师监督，节约渲染探索成本 | [🔥 E2E / 后训练](papers/End-to-End-Driving/2609.20756-opted.md) |
+| WZPlanner | 09-16 / v1 09-16 | Carnegie Mellon University，ECE | 施工区临时边界与可行路径联合学习，审查长尾证据 | [⭐ 几何 / 长尾规划](papers/End-to-End-Driving/2609.19393-wzplanner.md) |
 
-以上为 **2026 年、arXiv UTC 日期**。本期只新增 2 篇，均在最近 7 天内首发，不以跨领域工作凑数。两篇均按预印本收录，官方实现/权重未核实，本站未复现。
+以上为 **2026 年、arXiv UTC 日期**。本期新增 2 篇，均在最近 7 天首发，未凑数。代码链接的可访问性与开放状态见卡片；本站未复现。
 
-**已收录更新：**[DiffAdapterVLA v2](papers/VLA/2609.15322-diffadaptervla.md)补充了一作的东风单位与实习说明；正文抽取文本未发现方法/数值变更，保留原首次推荐日期，不计新增。
+**已收录重要更新：**[StyleDrive → Crisp-Drive v2](papers/World-Models/2609.03225-styledrive.md)更名并更新主结果与评测描述。以 v2 正文为准，同一论文不重复计入。
 
 ## 如何理解推荐
 
@@ -30,6 +30,7 @@ SOTA 优先，但只在相同数据、指标与评测协议下讨论。每篇都
 
 ## 归档
 
+- [2026-09-19：On-policy 教师、施工区长尾与 Crisp-Drive v2 修订](daily/2026-09-19.md)
 - [2026-09-18：未来表征对齐与循环动作记忆；DiffAdapterVLA v2 更新](daily/2026-09-18.md)
 - [2026-09-17：未来监督裁剪、RL 教师与可执行动作约束](daily/2026-09-17.md)
 - [2026-09-16：主干内规划、风险接口与有依据的推理](daily/2026-09-16.md)

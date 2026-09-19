@@ -178,14 +178,16 @@
       "doi": "10.48550/arXiv.2609.03225",
       "title": "Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving",
       "aliases": [
-        "StyleDrive"
+        "StyleDrive",
+        "Crisp-Drive",
+        "Crisp-Drive: Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving"
       ],
       "first_public_date": "2026-09-03",
-      "latest_version": "v1",
-      "latest_version_date": "2026-09-03",
+      "latest_version": "v2",
+      "latest_version_date": "2026-09-17",
       "date_timezone": "UTC",
       "first_recommended_on": "2026-09-14",
-      "last_verified_on": "2026-09-14",
+      "last_verified_on": "2026-09-19",
       "venue_status": "preprint; formal acceptance unverified",
       "topic": "World-Models",
       "path": "papers/World-Models/2609.03225-styledrive.md",
@@ -196,7 +198,19 @@
       "code_status": "official implementation and weights unverified",
       "sources": [
         "https://arxiv.org/abs/2609.03225",
-        "https://arxiv.org/html/2609.03225v1"
+        "https://arxiv.org/html/2609.03225v1",
+        "https://arxiv.org/html/2609.03225v2"
+      ],
+      "latest_document_title": "Crisp-Drive: Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving",
+      "metadata_note": "arXiv abstract page retains original title/name/results; current card follows v2 full text",
+      "latest_version_timestamp": "2026-09-17T03:58:18Z",
+      "revision_history": [
+        {
+          "version": "v2",
+          "version_date": "2026-09-17",
+          "verified_on": "2026-09-19",
+          "changes": "Full text renamed to Crisp-Drive; main table now camera-only DS 84.12/SR 63.21 and five-seed protocol; old results retained as v1 historical evidence; not a new recommendation"
+        }
       ]
     },
     {
@@ -584,6 +598,85 @@
         "https://arxiv.org/abs/2609.18623",
         "https://arxiv.org/html/2609.18623v1",
         "https://arxiv.org/pdf/2609.18623v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20756",
+      "arxiv_id": "2609.20756",
+      "doi": "10.48550/arXiv.2609.20756",
+      "title": "OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher",
+      "aliases": [
+        "OPTED"
+      ],
+      "first_public_date": "2026-09-17",
+      "arxiv_v1_timestamp": "2026-09-17T17:41:51Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-17",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-19",
+      "last_verified_on": "2026-09-19",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "End-to-End-Driving",
+      "path": "papers/End-to-End-Driving/2609.20756-opted.md",
+      "recommendation": "Must Read",
+      "first_author": "Damiano Da Col",
+      "first_author_affiliations": [
+        "KE:SAI",
+        "ETH Zürich"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": "https://github.com/01Dami23/opted",
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official project page says code coming soon; linked repository returns HTTP 404; weights unverified",
+      "code_link_http_status": 404,
+      "project_url": "https://01dami23.github.io/opted/",
+      "sources": [
+        "https://arxiv.org/abs/2609.20756",
+        "https://arxiv.org/html/2609.20756v1",
+        "https://arxiv.org/pdf/2609.20756v1",
+        "https://01dami23.github.io/opted/",
+        "https://github.com/01Dami23/opted"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19393",
+      "arxiv_id": "2609.19393",
+      "doi": "10.48550/arXiv.2609.19393",
+      "title": "WZPlanner: Safe End-to-End Path Planning for Autonomous Driving in Work Zones",
+      "aliases": [
+        "WZPlanner"
+      ],
+      "first_public_date": "2026-09-16",
+      "arxiv_v1_timestamp": "2026-09-16T20:22:51Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-16",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-19",
+      "last_verified_on": "2026-09-19",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "End-to-End-Driving",
+      "path": "papers/End-to-End-Driving/2609.19393-wzplanner.md",
+      "recommendation": "Recommended",
+      "first_author": "Nishad Sahu",
+      "first_author_affiliations": [
+        "Department of Electrical and Computer Engineering, Carnegie Mellon University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": "https://github.com/Nishad-Sahu/WZPlanner",
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-provided code/dataset repository returns HTTP 404; implementation, data and weights availability unverified",
+      "code_link_http_status": 404,
+      "sources": [
+        "https://arxiv.org/abs/2609.19393",
+        "https://arxiv.org/html/2609.19393v1",
+        "https://arxiv.org/pdf/2609.19393v1",
+        "https://github.com/Nishad-Sahu/WZPlanner"
       ]
     }
   ]
