@@ -678,6 +678,124 @@
         "https://arxiv.org/pdf/2609.19393v1",
         "https://github.com/Nishad-Sahu/WZPlanner"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20377",
+      "arxiv_id": "2609.20377",
+      "doi": "10.48550/arXiv.2609.20377",
+      "title": "MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving",
+      "aliases": [
+        "MM-Future"
+      ],
+      "first_public_date": "2026-09-17",
+      "arxiv_v1_timestamp": "2026-09-17T13:31:59Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-17",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-20",
+      "last_verified_on": "2026-09-20",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.20377-mm-future.md",
+      "recommendation": "Must Read",
+      "first_author": "Shuai Liu",
+      "first_author_affiliations": [
+        "NIO",
+        "School of Computer Science and Engineering, Sun Yat-sen University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.20377",
+        "https://arxiv.org/html/2609.20377v1",
+        "https://arxiv.org/pdf/2609.20377v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19863",
+      "arxiv_id": "2609.19863",
+      "doi": "10.48550/arXiv.2609.19863",
+      "title": "Feeling Terrain Before Crossing: World Models for Off-Road Navigation",
+      "aliases": [
+        "Feel-WM"
+      ],
+      "first_public_date": "2026-09-17",
+      "arxiv_v1_timestamp": "2026-09-17T08:19:06Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-17",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-20",
+      "last_verified_on": "2026-09-20",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.19863-feel-wm.md",
+      "recommendation": "Recommended",
+      "first_author": "E-In Son",
+      "first_author_affiliations": [
+        "Department of Electrical & Computer Engineering, Seoul National University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.19863",
+        "https://arxiv.org/html/2609.19863v1",
+        "https://arxiv.org/pdf/2609.19863v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20747",
+      "arxiv_id": "2609.20747",
+      "doi": "10.48550/arXiv.2609.20747",
+      "title": "MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Autonomous Driving",
+      "aliases": [
+        "MILER"
+      ],
+      "first_public_date": "2026-09-17",
+      "arxiv_v1_timestamp": "2026-09-17T17:35:22Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-17",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-20",
+      "last_verified_on": "2026-09-20",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "End-to-End-Driving",
+      "path": "papers/End-to-End-Driving/2609.20747-miler.md",
+      "recommendation": "Recommended",
+      "first_author": "Thomas Steinecker",
+      "first_author_affiliations": [
+        "Chair of Machine Perception for Autonomous Driving, University of the Bundeswehr Munich"
+      ],
+      "co_first_authors": [
+        {
+          "name": "Denis Trescher",
+          "affiliations": [
+            "Chair of Machine Perception for Autonomous Driving, University of the Bundeswehr Munich"
+          ]
+        }
+      ],
+      "co_first_author_status": "equal contribution confirmed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.20747",
+        "https://arxiv.org/html/2609.20747v1",
+        "https://arxiv.org/pdf/2609.20747v1"
+      ],
+      "author_video_url": "https://www.youtube.com/watch?v=IZli3Z87URI",
+      "video_verification_status": "paper-linked; not independently evaluated"
     }
   ]
 }
