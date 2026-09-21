@@ -796,6 +796,145 @@
       ],
       "author_video_url": "https://www.youtube.com/watch?v=IZli3Z87URI",
       "video_verification_status": "paper-linked; not independently evaluated"
+    },
+    {
+      "canonical_id": "arxiv:2609.21712",
+      "arxiv_id": "2609.21712",
+      "doi": "10.48550/arXiv.2609.21712",
+      "title": "ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation",
+      "aliases": [
+        "ZYT-World"
+      ],
+      "first_public_date": "2026-09-18",
+      "arxiv_v1_timestamp": "2026-09-18T12:49:01Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-18",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-21",
+      "last_verified_on": "2026-09-21",
+      "venue_status": "technical report / preprint; formal acceptance unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.21712-zyt-world.md",
+      "recommendation": "Recommended",
+      "first_author": null,
+      "first_author_affiliations": [
+        "ZYT AI Team (team attribution; individual affiliation mapping unverified)"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "core-contribution markers are not equal-first authorship declarations",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "author-linked project page returns HTTP 404; implementation and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.21712",
+        "https://arxiv.org/pdf/2609.21712v1",
+        "https://arxiv.org/html/2609.21712v1",
+        "https://zyt-aim.github.io/ZYT-World/"
+      ],
+      "team_authorship": "ZYT AI Team",
+      "first_author_status": "PDF uses team authorship; whole-paper individual first author unverified",
+      "first_listed_arxiv_author": "Boni Hu",
+      "core_contributors": [
+        "Boni Hu",
+        "Xiong Wei",
+        "Haoming Huang",
+        "Yong Huang",
+        "Chenbo Wang"
+      ],
+      "project_url": "https://zyt-aim.github.io/ZYT-World/",
+      "project_link_http_status": 404
+    },
+    {
+      "canonical_id": "arxiv:2609.21617",
+      "arxiv_id": "2609.21617",
+      "doi": "10.48550/arXiv.2609.21617",
+      "title": "CounterPlay: Counterfactual Post-Training for Self-Play Driving Policies",
+      "aliases": [
+        "CounterPlay"
+      ],
+      "first_public_date": "2026-09-18",
+      "arxiv_v1_timestamp": "2026-09-18T11:00:14Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-18",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-21",
+      "last_verified_on": "2026-09-21",
+      "venue_status": "preprint; formal acceptance unverified",
+      "topic": "End-to-End-Driving",
+      "path": "papers/End-to-End-Driving/2609.21617-counterplay.md",
+      "recommendation": "Must Read",
+      "first_author": "Jiarong Wei",
+      "first_author_affiliations": [
+        "Department of Computer Science, University of Freiburg",
+        "CARIAD SE"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.21617",
+        "https://arxiv.org/pdf/2609.21617v1",
+        "https://arxiv.org/html/2609.21617v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21404",
+      "arxiv_id": "2609.21404",
+      "doi": "10.48550/arXiv.2609.21404",
+      "title": "Stabilizing Trajectory Outputs in End-to-End Autonomous Driving via SC-IMM Based Teacher Signals",
+      "aliases": [
+        "SC-IMM Teacher Signals",
+        "SC-IMM",
+        "SC-IMM 기반 교사 신호를 이용한 End-to-end 자율주행 궤적 출력 안정화"
+      ],
+      "first_public_date": null,
+      "arxiv_v1_timestamp": "2026-09-18T07:17:46Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-18",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-21",
+      "last_verified_on": "2026-09-21",
+      "venue_status": "journal record confirmed in KCI and author arXiv journal-ref; exact publication/acceptance days unverified",
+      "topic": "Evaluation",
+      "path": "papers/Evaluation/2609.21404-sc-imm-teacher.md",
+      "recommendation": "Recommended",
+      "first_author": "Siewoo Kim",
+      "first_author_affiliations": [
+        "The CCS Graduate School of Mobility, Korea Advanced Institute of Science and Technology"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.21404",
+        "https://arxiv.org/pdf/2609.21404v1",
+        "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003377484"
+      ],
+      "first_public_date_precision": "unknown",
+      "first_public_date_note": "September 2026 journal issue exists; earliest public day and online-first date unverified; do not substitute arXiv v1",
+      "arxiv_first_public_date": "2026-09-18",
+      "journal": {
+        "name": "Journal of Institute of Control, Robotics and Systems",
+        "volume": "32",
+        "issue": "9",
+        "pages": "1277-1284",
+        "publication_month": "2026-09",
+        "publication_date": null,
+        "acceptance_date": null,
+        "doi": null,
+        "kci_id": "ART003377484"
+      },
+      "recency_note": "included as September journal research within expanded 30-day issue window; exact first-public date unknown"
     }
   ]
 }
