@@ -935,6 +935,152 @@
         "kci_id": "ART003377484"
       },
       "recency_note": "included as September journal research within expanded 30-day issue window; exact first-public date unknown"
+    },
+    {
+      "canonical_id": "arxiv:2609.18442",
+      "arxiv_id": "2609.18442",
+      "doi": "10.48550/arXiv.2609.18442",
+      "title": "Risk-Aware World Modeling with Flow-Guided Occupancy Evolution for Selective Trajectory Planning in Automated Driving",
+      "aliases": [
+        "RiskWorld (flow-guided planning)",
+        "RiskWorld: Risk-Aware World Modeling with Flow-Guided Occupancy Evolution for Selective Trajectory Planning in Automated Driving"
+      ],
+      "first_public_date": "2026-09-16",
+      "first_public_date_basis": "earliest verified public record is arXiv v1; research-completion date is not publication date",
+      "arxiv_v1_timestamp": "2026-09-16T10:32:37Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-16",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-22",
+      "last_verified_on": "2026-09-22",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.18442-riskworld-flow.md",
+      "recommendation": "Recommended",
+      "first_author": "Rongxiang Zeng",
+      "first_author_affiliations": [
+        "RWTH Aachen University"
+      ],
+      "co_first_authors": [
+        {
+          "name": "Linsen Cai",
+          "affiliations": [
+            "RWTH Aachen University"
+          ]
+        }
+      ],
+      "co_first_author_status": "equal contribution explicitly designated on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.18442",
+        "https://arxiv.org/pdf/2609.18442v1",
+        "https://arxiv.org/html/2609.18442v1",
+        "https://arxiv.org/abs/2608.21414"
+      ],
+      "disambiguation_note": "Flow-guided occupancy forecasting and selective planning; distinct from object-centric risk identification arXiv:2608.21414 and CorrRisk-WM"
+    },
+    {
+      "canonical_id": "arxiv:2609.21486",
+      "arxiv_id": "2609.21486",
+      "doi": "10.48550/arXiv.2609.21486",
+      "title": "Driving on Registers, Reasoning on Risk: Risk-Aware Occupancy for Register-Based End-to-End Autonomous Driving",
+      "aliases": [
+        "RRDrive"
+      ],
+      "first_public_date": "2026-09-18",
+      "first_public_date_basis": "earliest verified public record is arXiv v1; research-completion date is not publication date",
+      "arxiv_v1_timestamp": "2026-09-18T08:39:36Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-18",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-22",
+      "last_verified_on": "2026-09-22",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "End-to-End-Driving",
+      "path": "papers/End-to-End-Driving/2609.21486-rrdrive.md",
+      "recommendation": "Recommended",
+      "first_author": "Jiaxing Chen",
+      "first_author_affiliations": [
+        "School of Vehicle and Mobility, Tsinghua University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.21486",
+        "https://arxiv.org/pdf/2609.21486v1",
+        "https://arxiv.org/html/2609.21486v1",
+        "https://arxiv.org/abs/2408.07367"
+      ],
+      "related_papers": [
+        {
+          "arxiv_id": "2609.21470",
+          "relation": "shared RiskOcc research family; distinct planner architecture and benchmark, not a version or independent replication"
+        },
+        {
+          "arxiv_id": "2408.07367",
+          "relation": "earlier vehicle-road-cloud RiskOcc representation; background only"
+        }
+      ],
+      "research_completed_note": "author comment: early 2026; exact date unverified"
+    },
+    {
+      "canonical_id": "arxiv:2609.21470",
+      "arxiv_id": "2609.21470",
+      "doi": "10.48550/arXiv.2609.21470",
+      "title": "Risk-Aware Occupancy for Safety-Oriented End-to-End Autonomous Driving",
+      "aliases": [
+        "ROIDrive",
+        "RiskOcc4D-nuScenes"
+      ],
+      "first_public_date": "2026-09-18",
+      "first_public_date_basis": "earliest verified public record is arXiv v1; research-completion date is not publication date",
+      "arxiv_v1_timestamp": "2026-09-18T08:18:07Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-18",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-22",
+      "last_verified_on": "2026-09-22",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "3D-Representation",
+      "path": "papers/3D-Representation/2609.21470-roidrive.md",
+      "recommendation": "Recommended",
+      "first_author": "Jiaxing Chen",
+      "first_author_affiliations": [
+        "School of Vehicle and Mobility, Tsinghua University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.21470",
+        "https://arxiv.org/pdf/2609.21470v1",
+        "https://arxiv.org/html/2609.21470v1",
+        "https://arxiv.org/abs/2408.07367"
+      ],
+      "related_papers": [
+        {
+          "arxiv_id": "2609.21486",
+          "relation": "shared RiskOcc research family; distinct planner architecture and benchmark, not a version or independent replication"
+        },
+        {
+          "arxiv_id": "2408.07367",
+          "relation": "earlier vehicle-road-cloud RiskOcc representation; background only"
+        }
+      ],
+      "research_completed_note": "author comment: early 2025; exact date unverified"
     }
   ]
 }
