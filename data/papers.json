@@ -1081,6 +1081,123 @@
         }
       ],
       "research_completed_note": "author comment: early 2025; exact date unverified"
+    },
+    {
+      "canonical_id": "arxiv:2609.22762",
+      "arxiv_id": "2609.22762",
+      "doi": "10.48550/arXiv.2609.22762",
+      "title": "DriveReferee: Geometric Safety Verdicts Need Not Be Learned for Driving World-Action Models",
+      "aliases": [
+        "DriveReferee"
+      ],
+      "first_public_date": "2026-09-19",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-19T04:43:06Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-19",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-23",
+      "last_verified_on": "2026-09-23",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.22762-drivereferee.md",
+      "recommendation": "Must Read",
+      "first_author": "Fengcheng Yu",
+      "first_author_affiliations": [
+        "University of Southern California"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation; equal-advising marks are not co-first authorship",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.22762",
+        "https://arxiv.org/pdf/2609.22762v1",
+        "https://arxiv.org/html/2609.22762v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22868",
+      "arxiv_id": "2609.22868",
+      "doi": "10.48550/arXiv.2609.22868",
+      "title": "Planning-Aligned Pretraining of BEV Representations with Sparse Action-Conditioned Targets for End-to-End Autonomous Driving",
+      "aliases": [
+        "PAVER",
+        "Planning-Aligned BEV Encoder Pretraining"
+      ],
+      "first_public_date": "2026-09-19",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-19T08:13:03Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-19",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-23",
+      "last_verified_on": "2026-09-23",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "3D-Representation",
+      "path": "papers/3D-Representation/2609.22868-paver.md",
+      "recommendation": "Recommended",
+      "first_author": "Jaeha Song",
+      "first_author_affiliations": [
+        "Hanyang University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": "https://github.com/archiiive99/PAVER",
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official repository is a placeholder with README and assets only; implementation, configs and checkpoints promised but not released as of verification",
+      "sources": [
+        "https://arxiv.org/abs/2609.22868",
+        "https://arxiv.org/pdf/2609.22868v1",
+        "https://arxiv.org/html/2609.22868v1",
+        "https://archiiive99.github.io/PAVER/",
+        "https://github.com/archiiive99/PAVER"
+      ],
+      "official_project_url": "https://archiiive99.github.io/PAVER/",
+      "repository_first_commit_date": "2026-09-19",
+      "repository_verified_commit": "53df94c3be351160c31fecc7d7963ee04d24e157"
+    },
+    {
+      "canonical_id": "arxiv:2609.23488",
+      "arxiv_id": "2609.23488",
+      "doi": "10.48550/arXiv.2609.23488",
+      "title": "FeasibleFlow: One-Step Joint Transport of Configuration Feasibility and Trajectories for End-to-End Driving",
+      "aliases": [
+        "FeasibleFlow"
+      ],
+      "first_public_date": "2026-09-20",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-20T09:22:01Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-20",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-23",
+      "last_verified_on": "2026-09-23",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "Generative-Planning",
+      "path": "papers/Generative-Planning/2609.23488-feasibleflow.md",
+      "recommendation": "Recommended",
+      "first_author": "Xiang Li",
+      "first_author_affiliations": [
+        "Cross-Domain Computing Solutions, Bosch"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.23488",
+        "https://arxiv.org/pdf/2609.23488v1",
+        "https://arxiv.org/html/2609.23488v1"
+      ]
     }
   ]
 }

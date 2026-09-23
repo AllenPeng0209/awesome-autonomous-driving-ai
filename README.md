@@ -6,17 +6,17 @@
 
 目标：每天北京时间 **09:00** 更新 **3–5 篇未收录的新论文**。优先最近 7 天，必要时扩展到 30 天；高质量论文不足时少收或空缺，不用旧论文和低价值工作凑数。
 
-## 最新一期 · 2026-09-22
+## 最新一期 · 2026-09-23
 
-[阅读今日日报](daily/2026-09-22.md) · [完整去重索引（28 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
+[阅读今日日报](daily/2026-09-23.md) · [完整去重索引（31 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
 
-| 论文 | arXiv v1 / 最新版本 | 一作或共同一作单位 | 为什么读 | 解读 |
+| 论文 | arXiv v1 / 最新版本 | 一作单位 | 为什么读 | 解读 |
 | --- | --- | --- | --- | --- |
-| RiskWorld（flow-guided planning） | 09-16 / v1 09-16 | RWTH Aachen University | 一次未来预测供多候选使用，按新增风险决定换轨迹 | [⭐ World Model / 规划](papers/World-Models/2609.18442-riskworld-flow.md) |
-| RRDrive | 09-18 / v1 09-18 | Tsinghua University | 全局风险帮助生成，沿轨迹查询帮助选择 | [⭐ Tokens / Risk BEV](papers/End-to-End-Driving/2609.21486-rrdrive.md) |
-| ROIDrive | 09-18 / v1 09-18 | Tsinghua University | 稠密风险支路与时序查询可靠性校准 | [⭐ 表征 / 时序](papers/3D-Representation/2609.21470-roidrive.md) |
+| DriveReferee | 09-19 / v1 09-19 | University of Southern California | 学习场景几何，显式规则提供偏好监督与轨迹检查 | [🔥 WAM / 几何验证](papers/World-Models/2609.22762-drivereferee.md) |
+| PAVER | 09-19 / v1 09-19 | Hanyang University | 稀疏动作相关几何目标预训练 BEV，推理不增加辅助头 | [⭐ BEV / 预训练](papers/3D-Representation/2609.22868-paver.md) |
+| FeasibleFlow | 09-20 / v1 09-20 | Cross-Domain Computing Solutions, Bosch | 联合生成可行性场与轨迹，区分生成和排序收益 | [⭐ 世界表征 / 生成规划](papers/Generative-Planning/2609.23488-feasibleflow.md) |
 
-以上为 **2026 年、arXiv UTC 日期**，三篇 v1 均在最近 7 天内提交，此前未收录。三篇均为预印本，正式录用、本文代码/权重未核实；本站未复现。RRDrive 的 95.06 PDMS 使用真值风险，预测版为 94.00；RiskWorld 使用标注目标状态；ROIDrive 有分项退化，详见卡片。同团队两篇 RiskOcc 工作分别研究不同规划接口，不作为独立复现计数。
+以上为 **2026 年、arXiv UTC 日期**；三篇 v1 均在最近 7 天内，此前未收录。三篇按预印本记录，正式录用未核实；PAVER 官方仓库目前仅占位，另两篇代码/权重未核实。卡片保留在线筛选无显著增益、跨主干碰撞退化及安全/舒适性取舍，本站未复现。
 
 ## 如何理解推荐
 
@@ -29,6 +29,7 @@ SOTA 优先，但只在相同数据、指标与评测协议下讨论。每篇都
 
 ## 归档
 
+- [2026-09-23：显式几何验证、稀疏 BEV 预训练与联合生成](daily/2026-09-23.md)
 - [2026-09-22：共享未来、沿轨迹风险查询与时序可靠性](daily/2026-09-22.md)
 - [2026-09-21：七视图仿真、失败回退与轨迹教师标签](daily/2026-09-21.md)
 - [2026-09-20：配对未来、地形物理与跨车执行接口](daily/2026-09-20.md)
