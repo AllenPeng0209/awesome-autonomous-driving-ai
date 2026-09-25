@@ -6,17 +6,19 @@
 
 目标：每天北京时间 **09:00** 更新 **3–5 篇未收录的新论文**。优先最近 7 天，必要时扩展到 30 天；高质量论文不足时少收或空缺，不用旧论文和低价值工作凑数。
 
-## 最新一期 · 2026-09-23
+## 最新一期 · 2026-09-25
 
-[阅读今日日报](daily/2026-09-23.md) · [完整去重索引（31 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
+[阅读今日日报](daily/2026-09-25.md) · [完整去重索引（34 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
 
 | 论文 | arXiv v1 / 最新版本 | 一作单位 | 为什么读 | 解读 |
 | --- | --- | --- | --- | --- |
-| DriveReferee | 09-19 / v1 09-19 | University of Southern California | 学习场景几何，显式规则提供偏好监督与轨迹检查 | [🔥 WAM / 几何验证](papers/World-Models/2609.22762-drivereferee.md) |
-| PAVER | 09-19 / v1 09-19 | Hanyang University | 稀疏动作相关几何目标预训练 BEV，推理不增加辅助头 | [⭐ BEV / 预训练](papers/3D-Representation/2609.22868-paver.md) |
-| FeasibleFlow | 09-20 / v1 09-20 | Cross-Domain Computing Solutions, Bosch | 联合生成可行性场与轨迹，区分生成和排序收益 | [⭐ 世界表征 / 生成规划](papers/Generative-Planning/2609.23488-feasibleflow.md) |
+| LADA | 09-23 / v1 09-23 | Robert Bosch GmbH + Five AI Ltd. | 少量语言标注连接全量轨迹，反事实监督防止忽略指令 | [🔥 VLA / 标注效率](papers/VLA/2609.27747-lada.md) |
+| ForeDrive | 09-22 / v2 09-23 | 华中科技大学 + Shanghai Zaofu Intelligent Technology | 区分预测与规划目标，控制未来注入与梯度路径 | [🔥 世界模型 / 规划](papers/World-Models/2609.26299-foredrive.md) |
+| BranchDrive | 09-23 / v1 09-23 | University of Michigan-Dearborn | 共享历史对应多个已执行动作后果，检验候选排序 | [⭐ 分支数据 / 评测](papers/Evaluation/2609.27275-branchdrive.md) |
 
-以上为 **2026 年、arXiv UTC 日期**；三篇 v1 均在最近 7 天内，此前未收录。三篇按预印本记录，正式录用未核实；PAVER 官方仓库目前仅占位，另两篇代码/权重未核实。卡片保留在线筛选无显著增益、跨主干碰撞退化及安全/舒适性取舍，本站未复现。
+以上为 **2026 年、arXiv UTC 日期**；三篇 v1 均在最近 7 天内，此前未收录。正式录用与官方代码/权重未核实；本站未复现，卡片保留语言监督成本、非反应式评测与保守筛选失败等限制。
+
+**已收录更新：[ROIDrive v2](papers/3D-Representation/2609.21470-roidrive.md)** 调整 UniAD/ST-P3 指标归属，原卡已更新并保留版本溯源，不重复计新论文。
 
 ## 如何理解推荐
 
@@ -29,6 +31,7 @@ SOTA 优先，但只在相同数据、指标与评测协议下讨论。每篇都
 
 ## 归档
 
+- [2026-09-25：少语言 VLA、规划相关未来与分支数据；ROIDrive v2 更新](daily/2026-09-25.md)
 - [2026-09-23：显式几何验证、稀疏 BEV 预训练与联合生成](daily/2026-09-23.md)
 - [2026-09-22：共享未来、沿轨迹风险查询与时序可靠性](daily/2026-09-22.md)
 - [2026-09-21：七视图仿真、失败回退与轨迹教师标签](daily/2026-09-21.md)
