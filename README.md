@@ -6,19 +6,17 @@
 
 目标：每天北京时间 **09:00** 更新 **3–5 篇未收录的新论文**。优先最近 7 天，必要时扩展到 30 天；高质量论文不足时少收或空缺，不用旧论文和低价值工作凑数。
 
-## 最新一期 · 2026-09-25
+## 最新一期 · 2026-09-26
 
-[阅读今日日报](daily/2026-09-25.md) · [完整去重索引（34 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
+[阅读今日日报](daily/2026-09-26.md) · [完整去重索引（37 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
 
-| 论文 | arXiv v1 / 最新版本 | 一作单位 | 为什么读 | 解读 |
+| 论文 | arXiv v1 / 最新版本 | 一作或团队单位 | 为什么读 | 解读 |
 | --- | --- | --- | --- | --- |
-| LADA | 09-23 / v1 09-23 | Robert Bosch GmbH + Five AI Ltd. | 少量语言标注连接全量轨迹，反事实监督防止忽略指令 | [🔥 VLA / 标注效率](papers/VLA/2609.27747-lada.md) |
-| ForeDrive | 09-22 / v2 09-23 | 华中科技大学 + Shanghai Zaofu Intelligent Technology | 区分预测与规划目标，控制未来注入与梯度路径 | [🔥 世界模型 / 规划](papers/World-Models/2609.26299-foredrive.md) |
-| BranchDrive | 09-23 / v1 09-23 | University of Michigan-Dearborn | 共享历史对应多个已执行动作后果，检验候选排序 | [⭐ 分支数据 / 评测](papers/Evaluation/2609.27275-branchdrive.md) |
+| HelloWorld | 09-24 / v1 09-24 | HelloWorld Team；哈啰 Robotaxi 封面标识 | 多传感器控制生成与少步蒸馏的完整系统取舍 | [⭐ 世界模型 / 仿真](papers/World-Models/2609.28931-helloworld.md) |
+| AnchorReasoning | 09-23 / v1 09-23 | University of Georgia | 把关键视觉位置与推理、轨迹监督连接起来 | [⭐ VLA / 数据](papers/VLA/2609.28366-anchor-reasoning.md) |
+| Beyond the Leaderboard | 09-18 / v1 09-18 | University of Wisconsin–Madison | 检查模型是否因看见行人而合理改变计划 | [⭐ 跨域 / 诊断](papers/Evaluation/2609.22582-beyond-leaderboard.md) |
 
-以上为 **2026 年、arXiv UTC 日期**；三篇 v1 均在最近 7 天内，此前未收录。正式录用与官方代码/权重未核实；本站未复现，卡片保留语言监督成本、非反应式评测与保守筛选失败等限制。
-
-**已收录更新：[ROIDrive v2](papers/3D-Representation/2609.21470-roidrive.md)** 调整 UniAD/ST-P3 指标归属，原卡已更新并保留版本溯源，不重复计新论文。
+以上为 **2026 年、arXiv UTC 日期**。先查最近 7 天，再扩至 30 天补充 09-18 的跨域诊断工作；三篇此前均未收录。正式录用和本文代码/权重未核实；HelloWorld 有官方演示。卡片区分生成效率、日志指标与真实交互能力，本站未复现。
 
 ## 如何理解推荐
 
@@ -31,6 +29,7 @@ SOTA 优先，但只在相同数据、指标与评测协议下讨论。每篇都
 
 ## 归档
 
+- [2026-09-26：多传感器世界生成、视觉依据与跨域诊断](daily/2026-09-26.md)
 - [2026-09-25：少语言 VLA、规划相关未来与分支数据；ROIDrive v2 更新](daily/2026-09-25.md)
 - [2026-09-23：显式几何验证、稀疏 BEV 预训练与联合生成](daily/2026-09-23.md)
 - [2026-09-22：共享未来、沿轨迹风险查询与时序可靠性](daily/2026-09-22.md)

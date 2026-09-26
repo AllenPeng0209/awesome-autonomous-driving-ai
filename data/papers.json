@@ -1333,6 +1333,132 @@
         "https://arxiv.org/pdf/2609.27275v1",
         "https://arxiv.org/html/2609.27275v1"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28931",
+      "arxiv_id": "2609.28931",
+      "doi": "10.48550/arXiv.2609.28931",
+      "title": "HelloWorld: Towards Practical Applications of Generative Driving World Models",
+      "aliases": [
+        "HelloWorld"
+      ],
+      "first_public_date": "2026-09-24",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-24T02:28:50Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-24",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-26",
+      "last_verified_on": "2026-09-26",
+      "venue_status": "technical report/preprint; formal acceptance and publication unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.28931-helloworld.md",
+      "recommendation": "Recommended",
+      "first_author": null,
+      "first_author_affiliations": [
+        "HelloWorld Team; Hello Robotaxi cover branding; individual affiliations unverified"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "team authorship; core contributor list does not designate co-first authors",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.28931",
+        "https://arxiv.org/pdf/2609.28931v1",
+        "https://arxiv.org/html/2609.28931v1",
+        "https://helloworld-4d.github.io/"
+      ],
+      "team_authorship": "HelloWorld Team",
+      "first_listed_arxiv_author": "Fan Lu",
+      "core_contributors": [
+        "Fan Lu",
+        "Hanshi Wang",
+        "Zijing Wang",
+        "Quan Feng",
+        "Zhi Wang",
+        "Shijie Chen",
+        "Xianming Zeng"
+      ],
+      "official_project_url": "https://helloworld-4d.github.io/"
+    },
+    {
+      "canonical_id": "arxiv:2609.28366",
+      "arxiv_id": "2609.28366",
+      "doi": "10.48550/arXiv.2609.28366",
+      "title": "AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios",
+      "aliases": [
+        "AnchorReasoning"
+      ],
+      "first_public_date": "2026-09-23",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-23T16:38:06Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-23",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-26",
+      "last_verified_on": "2026-09-26",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "VLA",
+      "path": "papers/VLA/2609.28366-anchor-reasoning.md",
+      "recommendation": "Recommended",
+      "first_author": "Zhipeng Bao",
+      "first_author_affiliations": [
+        "School of Environmental, Civil, Agricultural and Mechanical Engineering, University of Georgia"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper states that new annotations are released; public annotation, code and checkpoint endpoints and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.28366",
+        "https://arxiv.org/pdf/2609.28366v1",
+        "https://arxiv.org/html/2609.28366v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22582",
+      "arxiv_id": "2609.22582",
+      "doi": "10.48550/arXiv.2609.22582",
+      "title": "Beyond the Leaderboard: Counterfactual Diagnosis of End-to-End and VLA Driving Policies Under Domain Shift",
+      "aliases": [
+        "Beyond the Leaderboard",
+        "Check-Up"
+      ],
+      "first_public_date": "2026-09-18",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-18T21:06:13Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-18",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-26",
+      "last_verified_on": "2026-09-26",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "Evaluation",
+      "path": "papers/Evaluation/2609.22582-beyond-leaderboard.md",
+      "recommendation": "Recommended",
+      "first_author": "Ruolin Yang",
+      "first_author_affiliations": [
+        "Department of Civil and Environmental Engineering, University of Wisconsin–Madison"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "authors promise release of code and edited frames; actual official release and weights unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.22582",
+        "https://arxiv.org/pdf/2609.22582v1",
+        "https://arxiv.org/html/2609.22582v1"
+      ],
+      "recency_note": "included from expanded 30-day window; v1 is 2026-09-18 UTC, outside the initial 2026-09-19 onward window"
     }
   ]
 }
