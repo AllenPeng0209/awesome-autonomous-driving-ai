@@ -1459,6 +1459,134 @@
         "https://arxiv.org/html/2609.22582v1"
       ],
       "recency_note": "included from expanded 30-day window; v1 is 2026-09-18 UTC, outside the initial 2026-09-19 onward window"
+    },
+    {
+      "canonical_id": "arxiv:2609.30436",
+      "arxiv_id": "2609.30436",
+      "doi": "10.48550/arXiv.2609.30436",
+      "title": "WALT: Learning World-Model-Aligned Latent Trajectories for Autonomous Driving",
+      "aliases": [
+        "WALT",
+        "World-Model Alignment for Latent Trajectories"
+      ],
+      "first_public_date": "2026-09-24",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-24T18:32:44Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-24",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-28",
+      "last_verified_on": "2026-09-28",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.30436-walt.md",
+      "recommendation": "Recommended",
+      "first_author": "Mingkai Jia",
+      "first_author_affiliations": [
+        "The Hong Kong University of Science and Technology",
+        "Horizon Robotics"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.30436",
+        "https://arxiv.org/pdf/2609.30436v1",
+        "https://arxiv.org/html/2609.30436v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30818",
+      "arxiv_id": "2609.30818",
+      "doi": "10.48550/arXiv.2609.30818",
+      "title": "Evaluation Is All You Need for Multi-Modal Autonomous Driving",
+      "aliases": [
+        "iDriveVLA"
+      ],
+      "first_public_date": "2026-09-25",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-25T04:56:15Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-25",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-28",
+      "last_verified_on": "2026-09-28",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "VLA",
+      "path": "papers/VLA/2609.30818-idrivevla.md",
+      "recommendation": "Recommended",
+      "first_author": "Zeyu He",
+      "first_author_affiliations": [
+        "School of Vehicle and Mobility & College of AI, Tsinghua University"
+      ],
+      "co_first_authors": [
+        {
+          "name": "Shiqi Liu",
+          "affiliations": [
+            "School of Vehicle and Mobility & College of AI, Tsinghua University"
+          ]
+        },
+        {
+          "name": "Ke Chen",
+          "affiliations": [
+            "School of Vehicle and Mobility & College of AI, Tsinghua University"
+          ]
+        }
+      ],
+      "co_first_author_status": "equal contribution explicitly designated on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "same-name repository liu-s-q19/iDriveVLA currently documents AutoVLA; correspondence to this paper and checkpoints unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.30818",
+        "https://arxiv.org/pdf/2609.30818v1",
+        "https://arxiv.org/html/2609.30818v1",
+        "https://github.com/liu-s-q19/iDriveVLA"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31137",
+      "arxiv_id": "2609.31137",
+      "doi": "10.48550/arXiv.2609.31137",
+      "title": "INTERACT: Interactive Planning for Autonomous Driving via Anchor-Conditioned Prediction and Trust-Region Refinement",
+      "aliases": [
+        "INTERACT"
+      ],
+      "first_public_date": "2026-09-25",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-25T11:27:27Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-25",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-28",
+      "last_verified_on": "2026-09-28",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "End-to-End-Driving",
+      "path": "papers/End-to-End-Driving/2609.31137-interact.md",
+      "recommendation": "Must Read",
+      "first_author": "Aron Distelzweig",
+      "first_author_affiliations": [
+        "Robert Bosch GmbH, Germany",
+        "University of Freiburg, Germany"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "authors promise code upon acceptance; current paper-specific implementation, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.31137",
+        "https://arxiv.org/pdf/2609.31137v1",
+        "https://arxiv.org/html/2609.31137v1"
+      ]
     }
   ]
 }

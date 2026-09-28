@@ -6,17 +6,17 @@
 
 目标：每天北京时间 **09:00** 更新 **3–5 篇未收录的新论文**。优先最近 7 天，必要时扩展到 30 天；高质量论文不足时少收或空缺，不用旧论文和低价值工作凑数。
 
-## 最新一期 · 2026-09-26
+## 最新一期 · 2026-09-28
 
-[阅读今日日报](daily/2026-09-26.md) · [完整去重索引（37 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
+[阅读今日日报](daily/2026-09-28.md) · [完整去重索引（40 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
 
-| 论文 | arXiv v1 / 最新版本 | 一作或团队单位 | 为什么读 | 解读 |
+| 论文 | arXiv v1 / 最新版本 | 一作单位 | 为什么读 | 解读 |
 | --- | --- | --- | --- | --- |
-| HelloWorld | 09-24 / v1 09-24 | HelloWorld Team；哈啰 Robotaxi 封面标识 | 多传感器控制生成与少步蒸馏的完整系统取舍 | [⭐ 世界模型 / 仿真](papers/World-Models/2609.28931-helloworld.md) |
-| AnchorReasoning | 09-23 / v1 09-23 | University of Georgia | 把关键视觉位置与推理、轨迹监督连接起来 | [⭐ VLA / 数据](papers/VLA/2609.28366-anchor-reasoning.md) |
-| Beyond the Leaderboard | 09-18 / v1 09-18 | University of Wisconsin–Madison | 检查模型是否因看见行人而合理改变计划 | [⭐ 跨域 / 诊断](papers/Evaluation/2609.22582-beyond-leaderboard.md) |
+| WALT | 09-24 / v1 09-24 | 香港科技大学 + Horizon Robotics | 冻结世界主干，将场景信息迁入紧凑轨迹潜空间 | [⭐ 世界模型 / 动作表征](papers/World-Models/2609.30436-walt.md) |
+| iDriveVLA | 09-25 / v1 09-25 | 清华大学 | 分开风险过滤、候选改进与语义评分权重 | [⭐ VLA / 候选选择](papers/VLA/2609.30818-idrivevla.md) |
+| INTERACT | 09-25 / v1 09-25 | Bosch + University of Freiburg | 按意图预测他车响应，局部优化中复用预测 | [🔥 交互规划 / 闭环](papers/End-to-End-Driving/2609.31137-interact.md) |
 
-以上为 **2026 年、arXiv UTC 日期**。先查最近 7 天，再扩至 30 天补充 09-18 的跨域诊断工作；三篇此前均未收录。正式录用和本文代码/权重未核实；HelloWorld 有官方演示。卡片区分生成效率、日志指标与真实交互能力，本站未复现。
+以上为 **2026 年、arXiv UTC 日期**；三篇均在最近 7 天内且此前未收录。正式录用和本文代码/权重未核实。卡片明确区分 NAVSIM 与 reactive 闭环、额外训练数据、单模块计算量和完整时延；本站未复现。
 
 ## 如何理解推荐
 
@@ -29,6 +29,7 @@ SOTA 优先，但只在相同数据、指标与评测协议下讨论。每篇都
 
 ## 归档
 
+- [2026-09-28：轨迹潜空间、语义候选评分与交互预测复用](daily/2026-09-28.md)
 - [2026-09-26：多传感器世界生成、视觉依据与跨域诊断](daily/2026-09-26.md)
 - [2026-09-25：少语言 VLA、规划相关未来与分支数据；ROIDrive v2 更新](daily/2026-09-25.md)
 - [2026-09-23：显式几何验证、稀疏 BEV 预训练与联合生成](daily/2026-09-23.md)
