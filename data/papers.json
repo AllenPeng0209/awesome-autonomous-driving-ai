@@ -1587,6 +1587,124 @@
         "https://arxiv.org/pdf/2609.31137v1",
         "https://arxiv.org/html/2609.31137v1"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30595",
+      "arxiv_id": "2609.30595",
+      "doi": "10.48550/arXiv.2609.30595",
+      "title": "Action Forcing: Training World Models on Unsupervised Video by Recovering Underlying Egomotion Bases",
+      "aliases": [
+        "Action Forcing"
+      ],
+      "first_public_date": "2026-09-24",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-24T22:19:08Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-24",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-29",
+      "last_verified_on": "2026-09-29",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.30595-action-forcing.md",
+      "recommendation": "Recommended",
+      "first_author": "Ashish Sundar",
+      "first_author_affiliations": [
+        "University of Exeter, Exeter, United Kingdom",
+        "Environmental Intelligence CDT"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.30595",
+        "https://arxiv.org/pdf/2609.30595v1",
+        "https://arxiv.org/html/2609.30595v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31374",
+      "arxiv_id": "2609.31374",
+      "doi": "10.48550/arXiv.2609.31374",
+      "title": "RECAST: From Log Replay to Closed-Loop Driving Simulation with View-Complete Actors",
+      "aliases": [
+        "RECAST",
+        "REconstructing Controllable Actors for Simulation and Testing"
+      ],
+      "first_public_date": "2026-09-25",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-25T15:12:05Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-25",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-29",
+      "last_verified_on": "2026-09-29",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "Evaluation",
+      "path": "papers/Evaluation/2609.31374-recast.md",
+      "recommendation": "Recommended",
+      "first_author": "Zijun Zhao",
+      "first_author_affiliations": [
+        "Global Institute of Future Technology, Shanghai Jiao Tong University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official project page accessible but code and paper links contain template placeholders; implementation, RECAR download, weights and dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.31374",
+        "https://arxiv.org/pdf/2609.31374v1",
+        "https://arxiv.org/html/2609.31374v1",
+        "https://zijunkr.github.io/RECAST/"
+      ],
+      "official_project_url": "https://zijunkr.github.io/RECAST/"
+    },
+    {
+      "canonical_id": "arxiv:2609.31383",
+      "arxiv_id": "2609.31383",
+      "doi": "10.48550/arXiv.2609.31383",
+      "title": "Guiding End-to-End Driving Models with Endpoint-Constrained Trajectory Optimization",
+      "aliases": [
+        "ECO",
+        "Endpoint-Constrained Optimization"
+      ],
+      "first_public_date": "2026-09-25",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-25T15:17:21Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-25",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-09-29",
+      "last_verified_on": "2026-09-29",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "End-to-End-Driving",
+      "path": "papers/End-to-End-Driving/2609.31383-eco.md",
+      "recommendation": "Must Read",
+      "first_author": "Brayden Zhang",
+      "first_author_affiliations": [
+        "University of Toronto"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official project page explicitly marks code Coming soon; implementation, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.31383",
+        "https://arxiv.org/pdf/2609.31383v1",
+        "https://arxiv.org/html/2609.31383v1",
+        "https://brayden-zhang.github.io/guiding-e2e-eco/"
+      ],
+      "official_project_url": "https://brayden-zhang.github.io/guiding-e2e-eco/"
     }
   ]
 }
