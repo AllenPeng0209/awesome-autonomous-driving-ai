@@ -54,17 +54,45 @@
         "GeoWAM"
       ],
       "first_public_date": "2026-08-24",
-      "latest_version": "v2",
-      "latest_version_date": "2026-08-25",
+      "latest_version": "v3",
+      "latest_version_date": "2026-09-29",
       "date_timezone": "UTC",
       "first_recommended_on": "2026-09-13",
-      "last_verified_on": "2026-09-13",
+      "last_verified_on": "2026-10-01",
       "venue_status": "preprint; formal acceptance unverified",
       "topic": "World-Models",
       "path": "papers/World-Models/2608.23486-geowam.md",
       "sources": [
         "https://arxiv.org/abs/2608.23486",
-        "https://arxiv.org/html/2608.23486v2"
+        "https://arxiv.org/html/2608.23486v2",
+        "https://arxiv.org/pdf/2608.23486v3",
+        "https://arxiv.org/html/2608.23486v3",
+        "https://yiren-lu.com/project_pages/geowam/",
+        "https://github.com/vulab-AI/GeoWAM"
+      ],
+      "latest_version_timestamp": "2026-09-29T18:05:41Z",
+      "arxiv_v1_timestamp": "2026-08-24T16:49:53Z",
+      "recommendation": "Must Read",
+      "first_author": "Yiren Lu",
+      "first_author_affiliations": [
+        "Uber AV Labs",
+        "Case Western Reserve University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on v3 PDF first page",
+      "official_project_url": "https://yiren-lu.com/project_pages/geowam/",
+      "official_code_url": "https://github.com/vulab-AI/GeoWAM",
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "author-listed repository returned HTTP 404 at verification; implementation, weights and release dates unverified",
+      "updates": [
+        {
+          "verified_on": "2026-10-01",
+          "version": "v3",
+          "version_timestamp": "2026-09-29T18:05:41Z",
+          "summary": "Updated pretraining-data protocol to NAVSIM navtrain and PAI training data; added PAI scaling comparisons: navtest 90.2 to 90.7, navhard 36.6 to 39.6, nuScenes open-loop collision 0.24% to 0.12%. Longest-horizon geometry is not uniformly improved; repository link returns 404. Not a new recommendation."
+        }
       ]
     },
     {
@@ -1821,6 +1849,137 @@
         "https://arxiv.org/html/2609.33264v1"
       ],
       "first_author_affiliation_status": "unverified; PDF first page names equal contributors without institution mapping; do not substitute corresponding-author affiliation"
+    },
+    {
+      "canonical_id": "arxiv:2609.38570",
+      "arxiv_id": "2609.38570",
+      "doi": "10.48550/arXiv.2609.38570",
+      "title": "Data-Efficient Adaptation of a Driving VLA to Class 8 Trucks",
+      "aliases": [
+        "Class 8 Truck VLA",
+        "Flow Velocity Steering",
+        "FVS"
+      ],
+      "first_public_date": "2026-09-29",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-29T21:28:32Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-29",
+      "latest_version_timestamp": "2026-09-29T21:28:32Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-01",
+      "last_verified_on": "2026-10-01",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "VLA",
+      "path": "papers/VLA/2609.38570-truck-vla.md",
+      "recommendation": "Recommended",
+      "first_author": "Satyajeet Das",
+      "first_author_affiliations": [
+        "Department of Computer Science, University of Southern California"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_project_url": "https://truckvla.github.io/",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official project page explicitly says no code link available yet; adapted weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.38570",
+        "https://arxiv.org/pdf/2609.38570v1",
+        "https://arxiv.org/html/2609.38570v1",
+        "https://truckvla.github.io/"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.36851",
+      "arxiv_id": "2609.36851",
+      "doi": "10.48550/arXiv.2609.36851",
+      "title": "RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts",
+      "aliases": [
+        "RoXDrive"
+      ],
+      "first_public_date": "2026-09-29",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-29T06:59:50Z",
+      "latest_version": "v2",
+      "latest_version_date": "2026-09-30",
+      "latest_version_timestamp": "2026-09-30T01:53:27Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-01",
+      "last_verified_on": "2026-10-01",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.36851-roxdrive.md",
+      "recommendation": "Recommended",
+      "first_author": "Hongbin Lin",
+      "first_author_affiliations": [
+        "The Chinese University of Hong Kong, Shenzhen"
+      ],
+      "co_first_authors": [
+        {
+          "name": "Chaoda Zheng",
+          "affiliations": [
+            "XPeng Motors"
+          ]
+        }
+      ],
+      "co_first_author_status": "equal contribution explicitly designated on PDF first page",
+      "official_project_url": "https://hongbin98.github.io/RoXDrive/",
+      "official_code_url": "https://github.com/Hongbin98/RoXDrive",
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official repository contains README and project-page assets, but no verified training implementation or weights; release dates unknown",
+      "sources": [
+        "https://arxiv.org/abs/2609.36851",
+        "https://arxiv.org/pdf/2609.36851v2",
+        "https://arxiv.org/html/2609.36851v2",
+        "https://hongbin98.github.io/RoXDrive/",
+        "https://github.com/Hongbin98/RoXDrive"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38641",
+      "arxiv_id": "2609.38641",
+      "doi": "10.48550/arXiv.2609.38641",
+      "title": "Vision-Language-Action Autonomous Driving Agent with Language-based Memory",
+      "aliases": [
+        "AD-Memo",
+        "Da Capo"
+      ],
+      "first_public_date": "2026-09-29",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-29T23:00:01Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-29",
+      "latest_version_timestamp": "2026-09-29T23:00:01Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-01",
+      "last_verified_on": "2026-10-01",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "VLA",
+      "path": "papers/VLA/2609.38641-ad-memo.md",
+      "recommendation": "Recommended",
+      "first_author": "Kai Yan",
+      "first_author_affiliations": [
+        "University of Illinois Urbana-Champaign"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_project_url": "https://kaiyan289.github.io/projects/ad-memo/",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.38641",
+        "https://arxiv.org/pdf/2609.38641v1",
+        "https://arxiv.org/html/2609.38641v1",
+        "https://kaiyan289.github.io/projects/ad-memo/"
+      ]
     }
   ]
 }
