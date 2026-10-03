@@ -1980,6 +1980,146 @@
         "https://arxiv.org/html/2609.38641v1",
         "https://kaiyan289.github.io/projects/ad-memo/"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.00859",
+      "arxiv_id": "2610.00859",
+      "doi": "10.48550/arXiv.2610.00859",
+      "title": "CtrlWAM: Controllable World Action Models with Aligned Intent and Foresight",
+      "aliases": [
+        "CtrlWAM",
+        "CtrlWAM-S",
+        "CtrlWAM-M"
+      ],
+      "first_public_date": "2026-10-01",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-10-01T00:23:01Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-10-01",
+      "latest_version_timestamp": "2026-10-01T00:23:01Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-03",
+      "last_verified_on": "2026-10-03",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2610.00859-ctrlwam.md",
+      "recommendation": "Recommended",
+      "first_author": "Chensheng Peng",
+      "first_author_affiliations": [
+        "NVIDIA",
+        "University of California, Berkeley"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation; asterisk denotes work during NVIDIA internship",
+      "official_project_url": "https://ctrl-wam.github.io/",
+      "official_code_url": "https://github.com/anonymous/ctrlwam",
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "project code link returns 404 as of verification; implementation, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2610.00859",
+        "https://arxiv.org/pdf/2610.00859v1",
+        "https://arxiv.org/html/2610.00859v1",
+        "https://ctrl-wam.github.io/",
+        "https://github.com/anonymous/ctrlwam"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.00601",
+      "arxiv_id": "2610.00601",
+      "doi": "10.48550/arXiv.2610.00601",
+      "title": "When Reasoning Helps Action: Monitoring and Steering Chain-of-Thought in Vision-Language-Action Policies",
+      "aliases": [
+        "TRUST",
+        "Token-level Reward for Utility-Steered Chain-of-Thought"
+      ],
+      "first_public_date": "2026-09-30",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-30T19:04:58Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-30",
+      "latest_version_timestamp": "2026-09-30T19:04:58Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-03",
+      "last_verified_on": "2026-10-03",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "VLA",
+      "path": "papers/VLA/2610.00601-trust.md",
+      "recommendation": "Recommended",
+      "first_author": "Sathwik Karnik",
+      "first_author_affiliations": [
+        "Safe and Intelligent Autonomy Lab, Stanford University"
+      ],
+      "co_first_authors": [
+        {
+          "name": "Joseph JR. Lee",
+          "affiliations": [
+            "Safe and Intelligent Autonomy Lab, Stanford University"
+          ]
+        }
+      ],
+      "co_first_author_status": "PDF first page explicitly marks Sathwik Karnik and Joseph JR. Lee as equal contributors",
+      "official_project_url": "https://s-karnik.github.io/trust-reasoning-project-page/",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official project page says Code Coming Soon; implementation, value-model weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2610.00601",
+        "https://arxiv.org/pdf/2610.00601v1",
+        "https://arxiv.org/html/2610.00601v1",
+        "https://s-karnik.github.io/trust-reasoning-project-page/"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39841",
+      "arxiv_id": "2609.39841",
+      "doi": "10.48550/arXiv.2609.39841",
+      "title": "DyRAD: Radar Novel View Synthesis for Dynamic Driving Scenes",
+      "aliases": [
+        "DyRAD"
+      ],
+      "first_public_date": "2026-09-30",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-30T14:35:37Z",
+      "latest_version": "v2",
+      "latest_version_date": "2026-10-01",
+      "latest_version_timestamp": "2026-10-01T15:40:47Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-03",
+      "last_verified_on": "2026-10-03",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.39841-dyrad.md",
+      "recommendation": "Recommended",
+      "first_author": "Merav Keidar",
+      "first_author_affiliations": [
+        "Technion - Israel Institute of Technology"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_project_url": "https://dyrad-nvs.github.io/",
+      "official_code_url": "https://github.com/Dyrad-NVS/DyRAD",
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official implementation with training, CUDA renderer, evaluation, configs and synthetic generator verified at e952e90fc872aa393574b5ec2cae028a5d3f223f; not reproduced; no released weights or GitHub release observed; exact first-public code date unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.39841",
+        "https://arxiv.org/pdf/2609.39841v2",
+        "https://arxiv.org/html/2609.39841v2",
+        "https://dyrad-nvs.github.io/",
+        "https://github.com/Dyrad-NVS/DyRAD",
+        "https://github.com/Dyrad-NVS/DyRAD/commit/65e76537ea0ead5668420e137f502ae12e615c01",
+        "https://huggingface.co/datasets/DyRAD/dyrad-synthetic"
+      ],
+      "official_dataset_url": "https://huggingface.co/datasets/DyRAD/dyrad-synthetic",
+      "code_verified_commit": "e952e90fc872aa393574b5ec2cae028a5d3f223f",
+      "code_first_commit_timestamp": "2026-09-29T07:56:08Z",
+      "code_repository_created_at": "2026-09-30T07:21:14Z",
+      "dataset_repository_created_at": "2026-10-02T06:15:17Z"
     }
   ]
 }
