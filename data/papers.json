@@ -2120,6 +2120,133 @@
       "code_first_commit_timestamp": "2026-09-29T07:56:08Z",
       "code_repository_created_at": "2026-09-30T07:21:14Z",
       "dataset_repository_created_at": "2026-10-02T06:15:17Z"
+    },
+    {
+      "canonical_id": "arxiv:2609.39245",
+      "arxiv_id": "2609.39245",
+      "doi": "10.48550/arXiv.2609.39245",
+      "title": "ReWAM: Reciprocal World Action Models for Interactive Autonomous Driving",
+      "aliases": [
+        "ReWAM",
+        "Reciprocal World Action Models",
+        "levelk-wam"
+      ],
+      "first_public_date": "2026-09-30",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-30T08:12:56Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-09-30",
+      "latest_version_timestamp": "2026-09-30T08:12:56Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-04",
+      "last_verified_on": "2026-10-04",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2609.39245-rewam.md",
+      "recommendation": "Recommended",
+      "first_author": "Benshan Ma",
+      "first_author_affiliations": [
+        "The Hong Kong University of Science and Technology (Guangzhou)"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation; star indicates project leader and dagger corresponding author",
+      "official_project_url": null,
+      "official_code_url": "https://github.com/LeapWM/rewam",
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official repository contains only a one-line README at 9369d11abd1693a7387215b2671d3b207864e31b; implementation, weights and actual release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.39245",
+        "https://arxiv.org/pdf/2609.39245v1",
+        "https://arxiv.org/html/2609.39245v1",
+        "https://github.com/LeapWM/rewam"
+      ],
+      "repository_checked_commit": "9369d11abd1693a7387215b2671d3b207864e31b",
+      "code_repository_created_at": "2026-09-08T08:20:04Z"
+    },
+    {
+      "canonical_id": "arxiv:2609.34387",
+      "arxiv_id": "2609.34387",
+      "doi": "10.48550/arXiv.2609.34387",
+      "title": "CAR-VLA: Complexity-Aware and Risk-Adaptive Reasoning for Autonomous Driving",
+      "aliases": [
+        "CAR-VLA",
+        "CARVLA"
+      ],
+      "first_public_date": "2026-09-28",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-09-28T06:03:13Z",
+      "latest_version": "v2",
+      "latest_version_date": "2026-09-29",
+      "latest_version_timestamp": "2026-09-29T03:32:19Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-04",
+      "last_verified_on": "2026-10-04",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "VLA",
+      "path": "papers/VLA/2609.34387-car-vla.md",
+      "recommendation": "Recommended",
+      "first_author": "Xiaolei Chen",
+      "first_author_affiliations": [
+        "Fudan University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation; dagger denotes project leader, envelope denotes corresponding author",
+      "official_project_url": null,
+      "official_code_url": "https://github.com/chenxl124578/CAR-VLA",
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "Code coming soon; project overview, assets and release scaffolding only at 691fdd22e1bab5f96033ec7b0c6db6ca46c05ff7; executable implementation, configs, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2609.34387",
+        "https://arxiv.org/pdf/2609.34387v2",
+        "https://arxiv.org/html/2609.34387v2",
+        "https://github.com/chenxl124578/CAR-VLA"
+      ],
+      "repository_checked_commit": "691fdd22e1bab5f96033ec7b0c6db6ca46c05ff7",
+      "project_overview_date": "2026-09-28",
+      "project_overview_date_basis": "official repository News; distinct from executable code release"
+    },
+    {
+      "canonical_id": "arxiv:2610.01905",
+      "arxiv_id": "2610.01905",
+      "doi": "10.48550/arXiv.2610.01905",
+      "title": "MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens",
+      "aliases": [
+        "MapLightning"
+      ],
+      "first_public_date": "2026-10-01",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-10-01T15:50:17Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-10-01",
+      "latest_version_timestamp": "2026-10-01T15:50:17Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-04",
+      "last_verified_on": "2026-10-04",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "3D-Representation",
+      "path": "papers/3D-Representation/2610.01905-maplightning.md",
+      "recommendation": "Recommended",
+      "first_author": "Shen Zheng",
+      "first_author_affiliations": [
+        "Carnegie Mellon University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_project_url": null,
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper promises code and models; official implementation/project/weights URLs and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2610.01905",
+        "https://arxiv.org/pdf/2610.01905v1",
+        "https://arxiv.org/html/2610.01905v1"
+      ]
     }
   ]
 }
