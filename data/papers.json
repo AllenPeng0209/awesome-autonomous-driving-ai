@@ -2247,6 +2247,128 @@
         "https://arxiv.org/pdf/2610.01905v1",
         "https://arxiv.org/html/2610.01905v1"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02726",
+      "arxiv_id": "2610.02726",
+      "doi": "10.48550/arXiv.2610.02726",
+      "title": "SymRegFlow: Symmetry-Regularized Flow Matching for Video World Models",
+      "aliases": [
+        "SymRegFlow"
+      ],
+      "first_public_date": "2026-10-02",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-10-02T03:02:22Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-10-02",
+      "latest_version_timestamp": "2026-10-02T03:02:22Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-05",
+      "last_verified_on": "2026-10-05",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2610.02726-symregflow.md",
+      "recommendation": "Recommended",
+      "first_author": "Xi Ye",
+      "first_author_affiliations": [
+        "Department of Computer Science and Technology, Tsinghua-Bosch Joint ML Center, Tsinghua University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_project_url": null,
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation, project, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2610.02726",
+        "https://arxiv.org/pdf/2610.02726v1",
+        "https://arxiv.org/html/2610.02726v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02825",
+      "arxiv_id": "2610.02825",
+      "doi": "10.48550/arXiv.2610.02825",
+      "title": "TerrainForge: Physics-Grounded road geometry Editing for Counterfactual Autonomous Driving",
+      "aliases": [
+        "TerrainForge"
+      ],
+      "first_public_date": "2026-10-02",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-10-02T05:16:54Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-10-02",
+      "latest_version_timestamp": "2026-10-02T05:16:54Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-05",
+      "last_verified_on": "2026-10-05",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "Evaluation",
+      "path": "papers/Evaluation/2610.02825-terrainforge.md",
+      "recommendation": "Recommended",
+      "first_author": "Yang Chen",
+      "first_author_affiliations": [
+        "Rochester Institute of Technology"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation; star denotes corresponding author",
+      "official_project_url": null,
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation, project, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2610.02825",
+        "https://arxiv.org/pdf/2610.02825v1",
+        "https://arxiv.org/html/2610.02825v1"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02765",
+      "arxiv_id": "2610.02765",
+      "doi": "10.48550/arXiv.2610.02765",
+      "title": "Localized Conformal Safety Monitoring with Vision-Language Models for Autonomous Driving",
+      "aliases": [
+        "SLLCP",
+        "Split Label-Localized Conformal Prediction"
+      ],
+      "first_public_date": "2026-10-02",
+      "first_public_date_basis": "earliest verified paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-10-02T03:46:07Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-10-02",
+      "latest_version_timestamp": "2026-10-02T03:46:07Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-05",
+      "last_verified_on": "2026-10-05",
+      "venue_status": "5-page extended abstract preprint; formal acceptance and publication unverified",
+      "topic": "Evaluation",
+      "path": "papers/Evaluation/2610.02765-sllcp.md",
+      "recommendation": "Recommended",
+      "first_author": "Luís Marques",
+      "first_author_affiliations": [
+        "University of Michigan, Ann Arbor"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation; Disha Kamale and Dmitry Berenson are joint senior authors, not co-first authors",
+      "official_project_url": null,
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation, project, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2610.02765",
+        "https://arxiv.org/pdf/2610.02765v1",
+        "https://arxiv.org/html/2610.02765v1"
+      ],
+      "joint_senior_authors": [
+        "Disha Kamale",
+        "Dmitry Berenson"
+      ]
     }
   ]
 }

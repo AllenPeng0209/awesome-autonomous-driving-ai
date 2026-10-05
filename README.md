@@ -6,17 +6,17 @@
 
 目标：每天北京时间 **09:00** 更新 **3–5 篇未收录的新论文**。优先最近 7 天，必要时扩展到 30 天；高质量论文不足时少收或空缺，不用旧论文和低价值工作凑数。
 
-## 最新一期 · 2026-10-04
+## 最新一期 · 2026-10-05
 
-[阅读今日日报](daily/2026-10-04.md) · [完整去重索引（55 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
+[阅读今日日报](daily/2026-10-05.md) · [完整去重索引（58 篇）](data/papers.json) · [筛选与更新规范](CURATION.md)
 
 | 论文 | arXiv v1 / 最新版本 | 一作单位 | 为什么读 | 解读 |
 | --- | --- | --- | --- | --- |
-| ReWAM | 09-30 / v1 09-30 | 香港科技大学（广州） | ego/other 动作流交换策略，研究多车响应 | [⭐ 世界动作模型 / 交互](papers/World-Models/2609.39245-rewam.md) |
-| CAR-VLA | 09-28 / v2 09-29 | 复旦大学 | 将场景复杂度与风险紧迫度分开，选择推理模式 | [⭐ VLA / 风险分级](papers/VLA/2609.34387-car-vla.md) |
-| MapLightning | 10-01 / v1 10-01 | Carnegie Mellon University | 联合压缩图像与地图 token，解码稀疏几何 | [⭐ 几何表征 / 效率](papers/3D-Representation/2610.01905-maplightning.md) |
+| SymRegFlow | 10-02 / v1 10-02 | 清华大学计算机系、清华–博世联合机器学习中心 | 双 anchor 去噪一致性，减少新视角伪监督偏差 | [⭐ 视频世界模型](papers/World-Models/2610.02726-symregflow.md) |
+| TerrainForge | 10-02 / v1 10-02 | Rochester Institute of Technology | 道路编辑同步作用于车辆、相机与周车 | [⭐ 物理反事实 / 评测](papers/Evaluation/2610.02825-terrainforge.md) |
+| SLLCP | 10-02 / v1 10-02 | University of Michigan, Ann Arbor | 冻结 VLM 的局部逐标签校准，显式评估漏报与误报 | [⭐ VLM 轨迹监控](papers/Evaluation/2610.02765-sllcp.md) |
 
-以上为 **2026 年、arXiv UTC 日期**；三篇均在最近 7 天内，本期首次推荐。正式录用及可运行实现/权重未核实，本站未复现。ReWAM 使用标注的当前他车状态；CAR-VLA 的 Reflex 仍为秒级；MapLightning 外参扰动实验不能证明跨车型泛化。
+以上为 **2026 年、arXiv UTC 日期**；三篇均在最近 7 天内，本期首次推荐。正式录用、代码与权重未核实，本站未复现。SymRegFlow 在同批场景适配评测；TerrainForge 的筛选库只重算自车；SLLCP 误报率为 44.5%–51.8%，不能作为已验证的量产安全门。
 
 ## 如何理解推荐
 
@@ -29,6 +29,7 @@ SOTA 优先，但只在相同数据、指标与评测协议下讨论。每篇都
 
 ## 归档
 
+- [2026-10-05：新视角伪监督、道路物理反事实与 VLM 风险校准](daily/2026-10-05.md)
 - [2026-10-04：多车响应、风险分级推理与紧凑地图 token](daily/2026-10-04.md)
 - [2026-10-03：动作与视频配对、推理可纠正性与雷达重仿真](daily/2026-10-03.md)
 - [2026-10-01：重卡适配、动作一致性与语言记忆；GeoWAM v3 更新](daily/2026-10-01.md)
