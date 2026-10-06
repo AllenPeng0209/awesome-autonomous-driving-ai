@@ -2369,6 +2369,166 @@
         "Disha Kamale",
         "Dmitry Berenson"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06469",
+      "arxiv_id": "2610.06469",
+      "doi": "10.48550/arXiv.2610.06469",
+      "title": "Odyssey: A Closed-Loop Benchmark for Long-Horizon Real-World Driving with Explicit Navigation Routes",
+      "aliases": [
+        "Odyssey",
+        "RouteDS"
+      ],
+      "first_public_date": "2026-10-05",
+      "first_public_date_basis": "earliest verified complete paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-10-05T15:00:18Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-10-05",
+      "latest_version_timestamp": "2026-10-05T15:00:18Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-06",
+      "last_verified_on": "2026-10-06",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "Evaluation",
+      "path": "papers/Evaluation/2610.06469-odyssey.md",
+      "recommendation": "Recommended",
+      "first_author": "Jungho Kim",
+      "first_author_affiliations": [
+        "Seoul National University"
+      ],
+      "co_first_authors": [
+        {
+          "name": "Hongjae Shin",
+          "affiliations": [
+            "Seoul National University"
+          ]
+        },
+        {
+          "name": "Seunghoon Yu",
+          "affiliations": [
+            "Seoul National University"
+          ]
+        },
+        {
+          "name": "Heecheol Yoo",
+          "affiliations": [
+            "Seoul National University"
+          ]
+        },
+        {
+          "name": "Myeongjun Kim",
+          "affiliations": [
+            "Seoul National University"
+          ]
+        },
+        {
+          "name": "Jiyong Oh",
+          "affiliations": [
+            "Seoul National University"
+          ]
+        }
+      ],
+      "co_first_author_status": "PDF first page marks the first six authors as equal contributors; Jun Won Choi is corresponding author",
+      "official_project_url": "https://snu-adr.github.io/Odyssey-Page/",
+      "official_code_url": "https://github.com/SNU-ADR/Odyssey",
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official repository at af6c1d1cbc0e6448fb1d1f2b163f65dcd5c2bb12 contains README and overview image only; benchmark implementation, adapted baselines, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2610.06469",
+        "https://arxiv.org/pdf/2610.06469v1",
+        "https://arxiv.org/html/2610.06469v1",
+        "https://snu-adr.github.io/Odyssey-Page/",
+        "https://github.com/SNU-ADR/Odyssey"
+      ],
+      "repository_checked_commit": "af6c1d1cbc0e6448fb1d1f2b163f65dcd5c2bb12",
+      "code_repository_created_at": "2026-09-29T07:20:17Z"
+    },
+    {
+      "canonical_id": "arxiv:2610.06171",
+      "arxiv_id": "2610.06171",
+      "doi": "10.48550/arXiv.2610.06171",
+      "title": "Controllable and Photorealistic Pedestrian Risky Motion Generation for End-to-End Driving Safety Evaluation",
+      "aliases": [
+        "ControlPed",
+        "HazardPed"
+      ],
+      "first_public_date": "2026-10-05",
+      "first_public_date_basis": "earliest verified complete paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-10-05T11:43:52Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-10-05",
+      "latest_version_timestamp": "2026-10-05T11:43:52Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-06",
+      "last_verified_on": "2026-10-06",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2610.06171-controlped.md",
+      "recommendation": "Recommended",
+      "first_author": "Siyuan Liu",
+      "first_author_affiliations": [
+        "School of Vehicle and Mobility, Tsinghua University",
+        "Carnegie Mellon University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation; dagger indicates corresponding author Bingbing Nie",
+      "official_project_url": "https://controlped.netlify.app/",
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official project page accessible; official dataset short link returned HTTP 503 twice; implementation, weights, dataset download and actual release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2610.06171",
+        "https://arxiv.org/pdf/2610.06171v1",
+        "https://arxiv.org/html/2610.06171v1",
+        "https://controlped.netlify.app/",
+        "https://tinyurl.com/ControlPed"
+      ],
+      "official_dataset_url": "https://tinyurl.com/ControlPed",
+      "dataset_status": "official short link returned HTTP 503 twice on verification; files, license and availability unverified"
+    },
+    {
+      "canonical_id": "arxiv:2610.06121",
+      "arxiv_id": "2610.06121",
+      "doi": "10.48550/arXiv.2610.06121",
+      "title": "Radar2Plan: Benchmarking 4D Radar for End-to-End Open-Loop Ego-Trajectory Planning",
+      "aliases": [
+        "Radar2Plan"
+      ],
+      "first_public_date": "2026-10-05",
+      "first_public_date_basis": "earliest verified complete paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-10-05T10:52:08Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-10-05",
+      "latest_version_timestamp": "2026-10-05T10:52:08Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-06",
+      "last_verified_on": "2026-10-06",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "Evaluation",
+      "path": "papers/Evaluation/2610.06121-radar2plan.md",
+      "recommendation": "Recommended",
+      "first_author": "Ling Yao",
+      "first_author_affiliations": [
+        "The Hong Kong University of Science and Technology (Guangzhou)",
+        "Shanghai Jiao Tong University"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation; star denotes corresponding author Fangqiang Ding",
+      "official_project_url": null,
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation, project, weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2610.06121",
+        "https://arxiv.org/pdf/2610.06121v1",
+        "https://arxiv.org/html/2610.06121v1"
+      ]
     }
   ]
 }
