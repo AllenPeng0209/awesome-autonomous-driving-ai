@@ -2529,6 +2529,145 @@
         "https://arxiv.org/pdf/2610.06121v1",
         "https://arxiv.org/html/2610.06121v1"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10390",
+      "arxiv_id": "2610.10390",
+      "doi": "10.48550/arXiv.2610.10390",
+      "title": "Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving",
+      "aliases": [
+        "GeoCoTDrive",
+        "GeoCoT",
+        "PlanningGrounding"
+      ],
+      "first_public_date": "2026-10-07",
+      "first_public_date_basis": "earliest verified complete paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-10-07T16:47:17Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-10-07",
+      "latest_version_timestamp": "2026-10-07T16:47:17Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-08",
+      "last_verified_on": "2026-10-08",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "VLA",
+      "path": "papers/VLA/2610.10390-geocotdrive.md",
+      "recommendation": "Recommended",
+      "first_author": "Xingtai Gui",
+      "first_author_affiliations": [
+        "SKL-IOTSC, Department of AI, University of Macau"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation; star denotes corresponding author Jianbing Shen",
+      "official_project_url": null,
+      "official_code_url": "https://github.com/TabGuigui/GeoCoTDrive",
+      "official_weights_url": "https://huggingface.co/tabguigui/geocotdrive_nuscenes",
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official evaluation scripts and geometry sampling implementation verified at 984625ddc39ef424a555126a7b2eb7535c0ea6e6; two public ungated checkpoint repositories verified; not executed; PlanningGrounding and training scripts remain TODO",
+      "sources": [
+        "https://arxiv.org/abs/2610.10390",
+        "https://arxiv.org/pdf/2610.10390v1",
+        "https://arxiv.org/html/2610.10390v1",
+        "https://github.com/TabGuigui/GeoCoTDrive",
+        "https://huggingface.co/tabguigui/geocotdrive_nuscenes",
+        "https://huggingface.co/tabguigui/geocotdrive_stage2"
+      ],
+      "repository_checked_commit": "984625ddc39ef424a555126a7b2eb7535c0ea6e6",
+      "code_weights_announcement_date": "2026-10-08",
+      "code_weights_announcement_basis": "author README News; timezone unspecified; actual first-public availability timestamps unknown",
+      "official_weights_urls": [
+        "https://huggingface.co/tabguigui/geocotdrive_nuscenes",
+        "https://huggingface.co/tabguigui/geocotdrive_stage2"
+      ],
+      "weights_status": "public ungated file inventories verified, including nuscenes .pth and NAVSIM safetensors; not downloaded or executed",
+      "weights_repository_created_at": {
+        "nuScenes": "2026-10-07T15:06:10Z",
+        "NAVSIM": "2026-08-07T15:43:57Z"
+      }
+    },
+    {
+      "canonical_id": "arxiv:2610.09695",
+      "arxiv_id": "2610.09695",
+      "doi": "10.48550/arXiv.2610.09695",
+      "title": "Do Better Visual Representations Always Lead to Better End-to-End Autonomous Driving?",
+      "aliases": [
+        "ViRA",
+        "ViRA-Diffusion"
+      ],
+      "first_public_date": "2026-10-07",
+      "first_public_date_basis": "earliest verified complete paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-10-07T08:54:13Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-10-07",
+      "latest_version_timestamp": "2026-10-07T08:54:13Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-08",
+      "last_verified_on": "2026-10-08",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "End-to-End-Driving",
+      "path": "papers/End-to-End-Driving/2610.09695-vira.md",
+      "recommendation": "Recommended",
+      "first_author": "Zihao Zhang",
+      "first_author_affiliations": [
+        "Southeast University",
+        "OpenDriveLab at The University of Hong Kong",
+        "Shenzhen Loop Area Institute"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation; correspondence symbols apply to Ziyuan Pu and Zhenjie Yang",
+      "official_project_url": null,
+      "official_code_url": "https://github.com/OpenDriveLab/ViRA",
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "official repository at 4fd729fa21c488a8fe1f3dca5d042c6a07cdecb0 contains README and result CSVs; code and checkpoints remain TODO; actual release dates unknown",
+      "sources": [
+        "https://arxiv.org/abs/2610.09695",
+        "https://arxiv.org/pdf/2610.09695v1",
+        "https://arxiv.org/html/2610.09695v1",
+        "https://github.com/OpenDriveLab/ViRA"
+      ],
+      "repository_checked_commit": "4fd729fa21c488a8fe1f3dca5d042c6a07cdecb0"
+    },
+    {
+      "canonical_id": "arxiv:2610.07381",
+      "arxiv_id": "2610.07381",
+      "doi": "10.48550/arXiv.2610.07381",
+      "title": "GeoWM: Efficient Direct World Modeling in Explicit Geometry",
+      "aliases": [
+        "GeoWM"
+      ],
+      "first_public_date": "2026-10-05",
+      "first_public_date_basis": "earliest verified complete paper publication record is arXiv v1",
+      "arxiv_v1_timestamp": "2026-10-05T20:52:18Z",
+      "latest_version": "v1",
+      "latest_version_date": "2026-10-05",
+      "latest_version_timestamp": "2026-10-05T20:52:18Z",
+      "date_timezone": "UTC",
+      "first_recommended_on": "2026-10-08",
+      "last_verified_on": "2026-10-08",
+      "venue_status": "preprint; formal acceptance and publication unverified",
+      "topic": "World-Models",
+      "path": "papers/World-Models/2610.07381-geowm.md",
+      "recommendation": "Recommended",
+      "first_author": "Mehrdad Noori",
+      "first_author_affiliations": [
+        "Huawei Noah's Ark Lab, Canada"
+      ],
+      "co_first_authors": [],
+      "co_first_author_status": "no equal-contribution designation observed on PDF first page",
+      "official_project_url": null,
+      "official_code_url": null,
+      "official_weights_url": null,
+      "code_release_date": null,
+      "weights_release_date": null,
+      "code_status": "paper-specific official implementation, project, forecasting weights and release dates unverified",
+      "sources": [
+        "https://arxiv.org/abs/2610.07381",
+        "https://arxiv.org/pdf/2610.07381v1",
+        "https://arxiv.org/html/2610.07381v1"
+      ]
     }
   ]
 }
